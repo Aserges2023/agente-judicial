@@ -1,0 +1,91 @@
+{
+  "n8n_instance": "https://aserges2026.app.n8n.cloud",
+  "workflows": {
+    "produccion": {
+      "id": "iVSmHsFprCiHdS1Y",
+      "name": "Notificaciones Judiciales - Produccion v3",
+      "active": true,
+      "trigger": "IMAP",
+      "description": "Workflow principal: recibe emails, filtra procuradores, extrae PDFs, analiza con Claude, clasifica en OneDrive, crea eventos Calendar"
+    },
+    "resumen_12h": {
+      "id": "ekdB2c1GOYrioqjz",
+      "name": "Resumen Notificaciones cada 12h",
+      "active": true,
+      "trigger": "Cron L-V 7:00 y 19:00",
+      "description": "Envía resumen por email de todas las notificaciones procesadas en las últimas 12 horas"
+    },
+    "keepalive": {
+      "id": "Z6kBTvRCKtQDuvUr",
+      "name": "Keepalive OneDrive Token",
+      "active": true,
+      "trigger": "Cron",
+      "description": "Mantiene activo el token OAuth2 de OneDrive realizando operaciones periódicas"
+    }
+  },
+  "workflows_historicos": {
+    "v1_antiguo": {
+      "id": "dvLJbxE7buNqg8eY",
+      "active": false
+    },
+    "test_batch": {
+      "id": "oZ6fENlJth58Ef6g",
+      "active": false
+    }
+  },
+  "credenciales": {
+    "imap": { "id": "pf0lvolsgCgYzC3P", "nombre": "IONOS IMAP - santiago@aserges.es" },
+    "smtp": { "id": "bUqowlkYgkqzV6Lm", "nombre": "IONOS SMTP - santiago@aserges.es" },
+    "onedrive": { "id": "T2PFgQvozQ2WfQQs", "nombre": "Microsoft OneDrive - Aserges" },
+    "google_calendar": { "id": "L57OkPum635lN3it", "nombre": "Google Calendar account" },
+    "openai": { "id": "tlBOWv86kYAdlt8t", "nombre": "n8n free OpenAI API credits" }
+  },
+  "procuradores_autorizados": [
+    "@solasortega.com",
+    "procuradoracarmencarrasco@gmail.com",
+    "@pazmontero.com",
+    "@belengoni.com",
+    "notificacioneslexnet@justicia.es"
+  ],
+  "keywords_judiciales": [
+    "procurad", "notificac", "juzgado", "tribunal",
+    "judicial", "emplazamiento", "citacion", "resolucion", "cedula"
+  ],
+  "ia": {
+    "principal": {
+      "provider": "anthropic",
+      "model": "claude-haiku-4-5",
+      "endpoint": "https://api.anthropic.com/v1/messages",
+      "coste_estimado": "$0.002/documento"
+    },
+    "alternativas": [
+      {
+        "provider": "google",
+        "model": "gemini",
+        "nota": "Rate limit agresivo en Vision, problemas con PDFs escaneados"
+      },
+      {
+        "provider": "groq",
+        "model": "llama-3.3-70b",
+        "nota": "Solo texto, no soporta Vision/PDF"
+      }
+    ]
+  },
+  "onedrive": {
+    "base_path": "DOCS-MNPROGRAM_1631",
+    "notificaciones_path": "DOCS-MNPROGRAM_1631/Notificaciones",
+    "expedientes_path": "DOCS-MNPROGRAM_1631/Usu2",
+    "sharepoint_host": "aserges2023-my.sharepoint.com"
+  },
+  "calendar": {
+    "calendar_id": "primary",
+    "timezone": "Europe/Madrid",
+    "evento_hora_inicio": "08:00",
+    "evento_hora_fin": "08:30",
+    "recordatorios_minutos": [1440, 60]
+  },
+  "email": {
+    "remitente": "santiago@aserges.es",
+    "destinatario": "santiago@aserges.es"
+  }
+}
