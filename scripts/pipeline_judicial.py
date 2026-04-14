@@ -1253,6 +1253,28 @@ def main():
     print(f"  Informe: {informe}")
     print("=" * 60)
 
+    # Fase 8: Generar ZIP con estructura correcta para descomprimir en DOCS-MNPROGRAM_1631
+    if clasificados:
+        import zipfile
+        home = Path(os.environ.get("HOME", "/home/ubuntu"))
+        zip_path = home / f"notificaciones_{fecha_str}.zip"
+        notif_dir = NOTIFICACIONES_DIR / fecha_str
+        with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
+            # Notificaciones/{periodo}/*.pdf
+            if notif_dir.exists():
+                for f in sorted(notif_dir.glob("*.pdf")):
+                    zf.write(f, f"Notificaciones/{fecha_str}/{f.name}")
+            # Usu2/{cliente}/*.pdf (solo archivos del periodo actual)
+            if USU2_DIR.exists():
+                periodo_pdfs = {p.name for p in notif_dir.glob("*.pdf")} if notif_dir.exists() else set()
+                for cliente_dir in sorted(USU2_DIR.iterdir()):
+                    if cliente_dir.is_dir():
+                        for f in sorted(cliente_dir.glob("*.pdf")):
+                            if f.name in periodo_pdfs:
+                                zf.write(f, f"Usu2/{cliente_dir.name}/{f.name}")
+        print(f"  ZIP: {zip_path}")
+        log.info(f"ZIP generado: {zip_path}")
+
 
 if __name__ == "__main__":
     main()
