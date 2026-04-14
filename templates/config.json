@@ -1,17 +1,5 @@
 {
-  "_nota": "IMAP Ionos eliminado. Ahora se usa Gmail MCP (conector gmail de Manus).",
-  "imap": {
-    "host": "",
-    "port": 993,
-    "user": "",
-    "password": ""
-  },
-  "mnprogram": {
-    "url": "https://mnprogramweb.net",
-    "user": "santiago@aserges.es",
-    "password": "Pinillos2024",
-    "empresa": "ASESORES Y ABOGADOS ASERGES SL"
-  },
+  "_nota": "Pipeline Judicial ASERGES v2.0 — Gmail MCP + LLM fallback + Google Calendar",
   "procuradores_autorizados": [
     "solasortega.com",
     "procuradoracarmencarrasco@gmail.com",
@@ -25,6 +13,7 @@
     "trabajo": "C:\\Users\\santi\\OneDrive - Aserges\\judicial_diario"
   },
   "mapeo_expedientes_archivo": "mapeos/mapeo_expedientes.json",
+  "email_resumen": "santiago@aserges.es",
   "openai_api_key_env": "OPENAI_API_KEY",
   "usar_llm_para_clasificar": true,
   "modelo_llm": "gpt-4.1-mini"
