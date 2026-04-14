@@ -1,0 +1,1076 @@
+2026-04-14 00:07:10,904 [INFO] ============================================================
+2026-04-14 00:07:10,904 [INFO] FASE 1: Descarga Gmail MCP | 2026-04-06 -> 2026-04-14
+2026-04-14 00:07:10,904 [INFO] ============================================================
+2026-04-14 00:07:10,904 [INFO] Query Gmail: has:attachment after:2026/04/06 before:2026/04/15
+2026-04-14 00:07:10,907 [INFO] Resultado Gmail MCP leído desde /tmp/gmail_threads_result.json
+2026-04-14 00:07:10,908 [INFO] Hilos encontrados: 14
+2026-04-14 00:07:10,908 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Riojastur
+2026-04-14 00:07:10,908 [INFO]   PDF descargado: acuse de presentación MON 686-25 ESCRITO APORTANDO TASA 696.pdf
+2026-04-14 00:07:10,908 [INFO] Correo procurador: <procurador@solasortega.com> | RE: The last One. PO 1497/2025, PMC 3/2025
+2026-04-14 00:07:10,909 [INFO]   PDF descargado: acuse de presentación PMA 3-25 ACLARACION.pdf
+2026-04-14 00:07:10,909 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda MMC David Antolín MMC 1132/25
+2026-04-14 00:07:10,909 [INFO]   PDF descargado: elena clavijo MMC 1132-25 dilig señalamiento vista.pdf
+2026-04-14 00:07:10,910 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,910 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 RT 440-24 prov.pdf
+2026-04-14 00:07:10,910 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,911 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 RT 440-24 auto.pdf
+2026-04-14 00:07:10,911 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,912 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 RT 440-24 dilig.pdf
+2026-04-14 00:07:10,912 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,912 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 testimonio auto.pdf
+2026-04-14 00:07:10,913 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 dilig.pdf
+2026-04-14 00:07:10,913 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,913 [INFO]   PDF descargado: 2016_0000190_PC_20251082981823420251119114717_01-SE INDICA CIF DE CARTER ROBINSON LEGAL ASSOCIATED SLP PARA REALIZAR CON.pdf
+2026-04-14 00:07:10,913 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,914 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 dilig_1.pdf
+2026-04-14 00:07:10,914 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,914 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0005 escrito acusación particular.pdf
+2026-04-14 00:07:10,914 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0005 dilig.pdf
+2026-04-14 00:07:10,915 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0005 dilig unión y consulta.pdf
+2026-04-14 00:07:10,915 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,915 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig.pdf
+2026-04-14 00:07:10,915 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,916 [INFO]   PDF descargado: 2016_0000190_PC_20251083357255320251201135108_01-ALEGACIONES A RECURSO DE REPOSICION CONTRA DECRETO DE 14-11-25_signed.p.pdf
+2026-04-14 00:07:10,916 [INFO]   PDF descargado: 2016_0000190_PC_20251083357255320251201135108_02-DOC 1 - INFORMACION REGISTRAL - REGISTRO PROPIEDAD PUERTO DEL ROSARIO 2.pdf
+2026-04-14 00:07:10,917 [INFO]   PDF descargado: 2016_0000190_PC_20251083357255320251201135108_03-DOC 2 - INFORME EJECUTIVO DE ANGEL DAVID SALIDO SAENZ SAMANIEGO 2025-11.pdf
+2026-04-14 00:07:10,917 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,917 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_1.pdf
+2026-04-14 00:07:10,918 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 informe Fiscal.pdf
+2026-04-14 00:07:10,918 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 escrito de oposición al recurso.pdf
+2026-04-14 00:07:10,919 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 infomación registral.pdf
+2026-04-14 00:07:10,920 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 informe ejecutivo.pdf
+2026-04-14 00:07:10,920 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,920 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_2.pdf
+2026-04-14 00:07:10,921 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 decreto.pdf
+2026-04-14 00:07:10,921 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,921 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_3.pdf
+2026-04-14 00:07:10,922 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 prov.pdf
+2026-04-14 00:07:10,922 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,922 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PA 56-24 dilig.pdf
+2026-04-14 00:07:10,922 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,923 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PA 56-24 auto admisión pruebas.pdf
+2026-04-14 00:07:10,923 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:07:10,923 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 alegaciones denunciante.pdf
+2026-04-14 00:07:10,924 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 escrito del Fiscal.pdf
+2026-04-14 00:07:10,924 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_4.pdf
+2026-04-14 00:07:10,924 [INFO] Correo procurador: <procurador@solasortega.com> | RE: The Last One Pieza MMCC 3/2025
+2026-04-14 00:07:10,926 [INFO]   PDF descargado: acuse de presentación PMA 3-25 aclaración auto.pdf
+2026-04-14 00:07:10,926 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:07:10,926 [INFO]   PDF descargado: acuse de presentación LSG 48-25.pdf
+2026-04-14 00:07:10,926 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:07:10,927 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 dilig.pdf
+2026-04-14 00:07:10,927 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:07:10,927 [INFO]   PDF descargado: fidel pedro LSG 48-25 dilig señalando fecha vista.pdf
+2026-04-14 00:07:10,927 [INFO]   PDF descargado: fidel pedro LSG 48-25 prov.pdf
+2026-04-14 00:07:10,928 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:07:10,928 [INFO]   PDF descargado: 2025_0000048_LSG_20261085922304020260305140616_001_PROPOSICION DE PRUEBA.pdf
+2026-04-14 00:07:10,931 [INFO]   PDF descargado: 2025_0000048_LSG_20261085922304020260305140616_002_DOCUMENTO 1 ACTA PRESENCIA 31 OCTUBRE 2025.pdf
+2026-04-14 00:07:10,931 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:07:10,932 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 dilig_1.pdf
+2026-04-14 00:07:10,932 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:07:10,932 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 prov.pdf
+2026-04-14 00:07:10,932 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 dilig_2.pdf
+2026-04-14 00:07:10,932 [INFO] Correo procurador: <procurador@solasortega.com> | URGENTE ADOLFO, FIDEL Y TOMAS
+2026-04-14 00:07:10,933 [INFO]   PDF descargado: acuse de presentación y de aceptación DEMANDA ADOLFO GONZALEZ GALILEA RENDICION DE CUENTAS.pdf
+2026-04-14 00:07:10,933 [INFO]   PDF descargado: acuse de presentación y de aceptación DEMANDA FIDEL PEDRO GARCIA RUIZ MODIFICACION MEDIDAS DEL DCT 136-22.pdf
+2026-04-14 00:07:10,933 [INFO]   PDF descargado: acuse de presentación y de aceptación DEMANDA TOMAS ESTEBAN PINILLOS MODIFICACION DE MEDIDAS DEFINITIVAS.pdf
+2026-04-14 00:07:10,933 [INFO] Correo procurador: <procurador@solasortega.com> | URGENTE PLAZO Demanda MMC David Antolín MMC 1132/25
+2026-04-14 00:07:10,934 [INFO]   PDF descargado: elena clavijo MMC 1132-25 dilig.pdf
+2026-04-14 00:07:10,934 [INFO] Correo procurador: <procurador@solasortega.com> | RV: URGENTE PLAZO RIOJASTUR CALIDAD MON 686/25 CALAHORRA 3
+2026-04-14 00:07:10,934 [INFO]   PDF descargado: riojastur calidad MON 686-25 dilig.pdf
+2026-04-14 00:07:10,934 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,935 [INFO]   PDF descargado: acuse de presentación ENJ 197-17.pdf
+2026-04-14 00:07:10,935 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 1.pdf
+2026-04-14 00:07:10,936 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 2.pdf
+2026-04-14 00:07:10,936 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 3.pdf
+2026-04-14 00:07:10,937 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 4.pdf
+2026-04-14 00:07:10,937 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,937 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig.pdf
+2026-04-14 00:07:10,937 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,937 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 AVERIGUACION PATRIMONIAL ALFONSO.PDF.pdf
+2026-04-14 00:07:10,937 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 AVERIGUACION PATRIMONIAL BEATRIZ.PDF.pdf
+2026-04-14 00:07:10,938 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 SITUACION TGSS ALFONSO.PDF.pdf
+2026-04-14 00:07:10,938 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 SITUACION TGSS BEATRIZ.PDF.pdf
+2026-04-14 00:07:10,938 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig de ord.pdf
+2026-04-14 00:07:10,939 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_1.pdf
+2026-04-14 00:07:10,939 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,939 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_2.pdf
+2026-04-14 00:07:10,939 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales 
+2026-04-14 00:07:10,939 [INFO]   PDF descargado: acuse de presentación ENJ 197-17_1.pdf
+2026-04-14 00:07:10,940 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,940 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_3.pdf
+2026-04-14 00:07:10,940 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,941 [INFO]   PDF descargado: 2017_0000197_ENJ_20251078092552320250528094224_000_ESCRITO TASACION DE COSTAS Y LIQ INTERESESESC ALEGACIONES TC Y LI.pdf
+2026-04-14 00:07:10,941 [INFO]   PDF descargado: 2017_0000197_ENJ_20251078092552320250528094224_001_DOC 1 MINUTA PROCURADOR.pdf
+2026-04-14 00:07:10,942 [INFO]   PDF descargado: 2017_0000197_ENJ_20251078092552320250528094224_002_DOC 2 MINUTA LETRADO.pdf
+2026-04-14 00:07:10,942 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,942 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_4.pdf
+2026-04-14 00:07:10,942 [INFO] Correo procurador: <procurador@solasortega.com> |  Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ
+2026-04-14 00:07:10,943 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 escrito Beatriz.pdf
+2026-04-14 00:07:10,943 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 movimientos de la cuenta.pdf
+2026-04-14 00:07:10,943 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_5.pdf
+2026-04-14 00:07:10,943 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,944 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_6.pdf
+2026-04-14 00:07:10,944 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,944 [INFO]   PDF descargado: beatriz y alfonso ENJ 197-17 dilig.pdf
+2026-04-14 00:07:10,944 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,945 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_7.pdf
+2026-04-14 00:07:10,945 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:07:10,945 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_8.pdf
+2026-04-14 00:07:10,945 [INFO] Correo procurador: <procurador@solasortega.com> | Calahorra Zapatero, Luis Javier Nave ABANCA EJH 628/2019
+2026-04-14 00:07:10,945 [INFO]   PDF descargado: 2019_0000628_EJH_20261086864143020260408153651_SOLICITAMOS vista ocupantes fdo.pdf
+2026-04-14 00:07:10,946 [INFO] Correo procurador: <procurador@solasortega.com> | Calahorra Zapatero, Luis Javier Nave ABANCA EJH 628/2019
+2026-04-14 00:07:10,946 [INFO]   PDF descargado: luis javier calahorra EJH 628-19 dilig.pdf
+2026-04-14 00:07:10,946 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,946 [INFO]   PDF descargado: acuse de presentación CNO 990-25 SOLICITUD EPI.pdf
+2026-04-14 00:07:10,946 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,947 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig.pdf
+2026-04-14 00:07:10,947 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,947 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 decreto.pdf
+2026-04-14 00:07:10,947 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,947 [INFO]   PDF descargado: acuse de presentación CNO 990-25.pdf
+2026-04-14 00:07:10,947 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,948 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig_1.pdf
+2026-04-14 00:07:10,948 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,948 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 auto rec EPI y conclusion CNO sin masa.pdf
+2026-04-14 00:07:10,949 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,949 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,949 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig_2.pdf
+2026-04-14 00:07:10,949 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 testimonio firmeza auto conclusion.pdf
+2026-04-14 00:07:10,950 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:07:10,950 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 OFICIO COMUNICANDO SUSPENSION ENJ 1521-23.pdf
+2026-04-14 00:07:10,950 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig_3.pdf
+2026-04-14 00:07:10,951 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:07:10,951 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 TESTIMONIO FIRMEZA AUTO DECLARACION CNO SIN .pdf
+2026-04-14 00:07:10,951 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 DIOR FIRMEZA AUTO DECLARACION.pdf
+2026-04-14 00:07:10,952 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 prov.pdf
+2026-04-14 00:07:10,952 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Demanda Segunda Oportunidad Jose Antonio Caparrós y Jose
+2026-04-14 00:07:10,952 [INFO]   PDF descargado: acuse de presentación CNO 953-25.pdf
+2026-04-14 00:07:10,952 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:07:10,953 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 registro civil villamediana.pdf
+2026-04-14 00:07:10,953 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 dilig.pdf
+2026-04-14 00:07:10,954 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 decreto admision sol epi.pdf
+2026-04-14 00:07:10,954 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:07:10,954 [INFO]   PDF descargado: jose antonio caparros y josefina AUTO REC EPI Y CONCLUSION CNO SIN MASA.pdf
+2026-04-14 00:07:10,954 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Demanda Segunda Oportunidad Jose Antonio Caparrós y Jose
+2026-04-14 00:07:10,955 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 dilig_1.pdf
+2026-04-14 00:07:10,955 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 testimonio firmeza auto conclusion.pdf
+2026-04-14 00:07:10,955 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:07:10,956 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 dilig.pdf
+2026-04-14 00:07:10,956 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 REG CIVIL RIBAFRECHA INSCRPCION CONCLUSION J.pdf
+2026-04-14 00:07:10,956 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 REG. CIVIL VILLAMEDIANA DE IREGUA INSCRIPCIO.pdf
+2026-04-14 00:07:10,956 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:07:10,957 [INFO]   PDF descargado: the last one company X45 1291-25 dilig.pdf
+2026-04-14 00:07:10,957 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:07:10,957 [INFO]   PDF descargado: acuse de presentación X45 1291-25 escrito aportando depósito.pdf
+2026-04-14 00:07:10,957 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:07:10,958 [INFO]   PDF descargado: the last one company X45 1291-25 dilig_1.pdf
+2026-04-14 00:07:10,958 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:07:10,958 [INFO]   PDF descargado: the last one X45 1291-25 escrito aceptando nombramiento.pdf
+2026-04-14 00:07:10,958 [INFO]   PDF descargado: the last one X45 1291-25 escrito sol provisión de fondos.pdf
+2026-04-14 00:07:10,959 [INFO]   PDF descargado: the last one X45 1291-25 dilig.pdf
+2026-04-14 00:07:10,959 [INFO] Correo procurador: <procurador@solasortega.com> | RE: The Last One Company, S.L. Nombramiento Auditor X45 1291
+2026-04-14 00:07:10,959 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:07:10,959 [INFO]   PDF descargado: the last one company X45 1291-25 dilig_2.pdf
+2026-04-14 00:07:10,959 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:07:10,960 [INFO]   PDF descargado: the last one company X45 1291-25 auto.pdf
+2026-04-14 00:07:10,960 [INFO] Total PDFs descargados: 105
+2026-04-14 00:07:11,412 [INFO]   Clasificado: 08h51 - PARTE - 686-2025 - Dil ordenacion.pdf | Proc: 686/2025
+2026-04-14 00:07:11,555 [INFO]   Clasificado: 05h24 - PARTE - 12-2026 - Dil ordenacion.pdf | Proc: 12/2026
+2026-04-14 00:07:13,229 [INFO]   Clasificado: 12h58 - PARTE - 001132-2025 - Dil ordenacion.pdf | Proc: 001132 /2025
+2026-04-14 00:07:15,058 [INFO]   Clasificado: 08h54 - PARTE - 0000440-2024 - Providencia senalamiento.pdf | Proc: 0000440 /2024
+2026-04-14 00:07:22,229 [INFO]   Clasificado: 09h31 - PARTE - 00437-2025 - Senalamiento vista.pdf | Proc: 00437/2025
+2026-04-14 00:07:23,476 [INFO]   Clasificado: 02h57 - PARTE - 0000440-2024 - Dil ordenacion.pdf | Proc: 0000440 /2024
+2026-04-14 00:07:30,779 [INFO]   Clasificado: 06h38 - PARTE - 0000440-2024 - Senalamiento vista.pdf | Proc: 0000440 /2024
+2026-04-14 00:07:32,811 [INFO]   Clasificado: 06h38 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:32,948 [INFO]   Clasificado: 14h40 - PARTE - 190-2016 - DILIGENCIA.pdf | Proc: 190/2016
+2026-04-14 00:07:34,554 [INFO]   Clasificado: 06h32 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:34,693 [INFO]   Clasificado: 09h08 - PARTE - 190-2016 - DILIGENCIA.pdf | Proc: 190/2016
+2026-04-14 00:07:35,539 [INFO]   Clasificado: 09h08 - PARTE - 000190-2016 - DILIGENCIA.pdf | Proc: 000190 /2016
+2026-04-14 00:07:37,173 [INFO]   Clasificado: 09h08 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:38,835 [INFO]   Clasificado: 08h48 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:39,133 [INFO]   Clasificado: 09h31 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf | Proc: 190/2016
+2026-04-14 00:07:39,914 [INFO]   Clasificado: 09h31 - PARTE - 1754-2006 - Senalamiento vista.pdf | Proc: 1754/2006
+2026-04-14 00:07:40,852 [INFO]   Clasificado: 09h31 - PARTE - 1720-2007 - Senalamiento vista.pdf | Proc: 1720/2007
+2026-04-14 00:07:42,480 [INFO]   Clasificado: 05h03 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:42,509 [INFO]   Clasificado: 05h03 - PARTE - 0000190-2016 - NOTIFICACION.pdf | Proc: 0000190/2016
+2026-04-14 00:07:42,810 [INFO]   Clasificado: 05h03 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf | Proc: 190/2016
+2026-04-14 00:07:43,631 [INFO]   Clasificado: 05h03 - PARTE - 1754-2006 - Senalamiento vista.pdf | Proc: 1754/2006
+2026-04-14 00:07:44,624 [INFO]   Clasificado: 05h03 - PARTE - 1720-2007 - Senalamiento vista.pdf | Proc: 1720/2007
+2026-04-14 00:07:46,282 [INFO]   Clasificado: 15h14 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:48,876 [INFO]   Clasificado: 15h14 - PARTE - 000190-2016 - Senalamiento vista.pdf | Proc: 000190 /2016
+2026-04-14 00:07:50,599 [INFO]   Clasificado: 02h54 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:52,299 [INFO]   Clasificado: 02h54 - PARTE - 000190-2016 - PROVIDENCIA.pdf | Proc: 000190 /2016
+2026-04-14 00:07:53,973 [INFO]   Clasificado: 09h51 - PARTE - 000056-2024 - Dil ordenacion.pdf | Proc: 000056 /2024
+2026-04-14 00:07:56,641 [INFO]   Clasificado: 09h18 - PARTE - 000056-2024 - Auto admision.pdf | Proc: 000056 /2024
+2026-04-14 00:07:56,870 [INFO]   Clasificado: 08h30 - PARTE - 190-2016 - Senalamiento vista.pdf | Proc: 190/2016
+2026-04-14 00:07:56,885 [INFO]   Clasificado: 08h30 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:07:58,656 [INFO]   Clasificado: 08h30 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:07:58,936 [INFO]   Clasificado: 04h43 - THELASTONECOMPANY - 000003-2025 - Senalamiento vista.pdf | Proc: 000003/2025
+2026-04-14 00:07:59,058 [INFO]   Clasificado: 08h44 - PARTE - SIN-PROC - Senalamiento vista.pdf | Proc: N/A
+2026-04-14 00:07:59,942 [INFO]   Clasificado: 08h51 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:08:01,605 [INFO]   Clasificado: 10h15 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:08:03,280 [INFO]   Clasificado: 10h15 - PARTE - 000048-2025 - PROVIDENCIA.pdf | Proc: 000048 /2025
+2026-04-14 00:08:03,540 [INFO]   Clasificado: 09h39 - Fidel Pedro García Ruiz - SIN-PROC - Dil ordenacion.pdf | Proc: N/A
+2026-04-14 00:08:04,496 [INFO]   Clasificado: 09h39 - FIDEL PEDRO - 000139-2024 - Dil ordenacion.pdf | Proc: 000139 /2024
+2026-04-14 00:08:05,419 [INFO]   Clasificado: 09h48 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:08:08,010 [INFO]   Clasificado: 07h45 - Relación de todas las cue - 000048-2025 - Senalamiento vista.pdf | Proc: 000048 /2025
+2026-04-14 00:08:08,931 [INFO]   Clasificado: 07h45 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:08:09,147 [INFO]   Clasificado: 08h38 - Adolfo González Galilea - 1087- 2025 - Senalamiento vista.pdf | Proc: 1087-
+2025
+2026-04-14 00:08:09,416 [INFO]   Clasificado: 08h38 - Materia Derecho de famili - 136- 2022 - Senalamiento vista.pdf | Proc: 136-
+2022
+2026-04-14 00:08:09,662 [INFO]   Clasificado: 08h38 - Materia Derecho de famili - 1146-2023 - Dil ordenacion.pdf | Proc: 1146/2023
+2026-04-14 00:08:11,343 [INFO]   Clasificado: 06h59 - PARTE - 001132-2025 - Dil ordenacion.pdf | Proc: 001132 /2025
+2026-04-14 00:08:13,161 [INFO]   Clasificado: 06h14 - para que en plazo de DIEZ - 000686-2025 - Dil ordenacion.pdf | Proc: 000686 /2025
+2026-04-14 00:08:13,309 [INFO]   Clasificado: 06h21 - PARTE - 000197-2017 - NOTIFICACION.pdf | Proc: 000197/2017
+2026-04-14 00:08:13,324 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:13,328 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:13,332 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:13,343 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:13,345 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:13,352 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:13,354 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:13,366 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,095 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:15,110 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,114 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,118 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,127 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,129 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,135 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,137 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:15,150 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,742 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:16,758 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,761 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,765 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,774 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,776 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,782 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,784 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:16,796 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,392 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:18,403 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,407 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,411 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,419 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,421 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,428 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,430 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:18,442 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:08:19,470 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:21,219 [INFO]   Clasificado: 02h21 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:21,980 [INFO]   Clasificado: 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:22,731 [INFO]   Clasificado: 10h03 - PARTE - 197-2017 - NOTIFICACION.pdf | Proc: 197/2017
+2026-04-14 00:08:22,814 [INFO]   Clasificado: 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:22,886 [INFO]   Clasificado: 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:24,797 [INFO]   Clasificado: 10h03 - en las entidades de crédi - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:26,838 [INFO]   Clasificado: 10h03 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:28,553 [INFO]   Clasificado: 14h25 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:28,769 [INFO]   Clasificado: 08h52 - LA PRESENTACIÓN DE TASACI - 000197-2017 - NOTIFICACION.pdf | Proc: 000197/2017
+2026-04-14 00:08:30,406 [INFO]   Clasificado: 08h46 - a fin de que en - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:30,582 [INFO]   Clasificado: 07h07 - PARTE - 148-2018 - Senalamiento vista.pdf | Proc: 148/2018
+2026-04-14 00:08:30,725 [INFO]   Clasificado: 07h07 - PARTE - 197-2017 - NOTIFICACION.pdf | Proc: 197/2017
+2026-04-14 00:08:30,818 [INFO]   Clasificado: 07h07 - PARTE - 113-2025 - NOTIFICACION.pdf | Proc: 113/2025
+2026-04-14 00:08:32,578 [INFO]   Clasificado: 10h12 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:32,888 [INFO]   Clasificado: 10h54 - PARTE - 000197-2017 - NOTIFICACION.pdf | Proc: 000197 / 2017
+2026-04-14 00:08:34,157 [INFO]   Clasificado: 10h54 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:08:35,952 [INFO]   Clasificado: 10h54 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:37,674 [INFO]   Clasificado: 04h46 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:39,386 [INFO]   Clasificado: 10h30 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:41,190 [INFO]   Clasificado: 06h12 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:42,158 [INFO]   Clasificado: 13h01 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:08:42,220 [INFO]   Clasificado: 13h05 - PARTE - SIN-PROC - Senalamiento vista.pdf | Proc: N/A
+2026-04-14 00:08:43,917 [INFO]   Clasificado: 14h15 - PARTE - 000628-2019 - Dil ordenacion.pdf | Proc: 000628 /2019
+2026-04-14 00:08:44,372 [INFO]   Clasificado: 06h33 - PARTE - 000990-2025 - Auto archivo.pdf | Proc: 000990/2025
+2026-04-14 00:08:46,108 [INFO]   Clasificado: 04h59 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:08:48,793 [INFO]   Clasificado: 03h05 - PARTE - 000990-2025 - Senalamiento vista.pdf | Proc: 000990 /2025
+2026-04-14 00:08:48,913 [INFO]   Clasificado: 13h07 - PARTE - 000990-2025 - NOTIFICACION.pdf | Proc: 000990/2025
+2026-04-14 00:08:50,687 [INFO]   Clasificado: 08h25 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:08:55,842 [INFO]   Clasificado: 05h59 - PARTE - 00053-2026 - AUTO.pdf | Proc: 00053/2026
+2026-04-14 00:08:57,761 [INFO]   Clasificado: 07h38 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:09:03,107 [INFO]   Clasificado: 07h38 - PARTE - 000990-2025 - AUTO.pdf | Proc: 000990 /2025
+2026-04-14 00:09:04,228 [INFO]   Clasificado: 06h38 - PARTE - 001521-2023 - DECRETO.pdf | Proc: 001521 /2023
+2026-04-14 00:09:05,839 [INFO]   Clasificado: 06h38 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:09:10,136 [INFO]   Clasificado: 08h46 - PARTE - 000953-2025 - Senalamiento vista.pdf | Proc: 000953 /2025
+2026-04-14 00:09:11,810 [INFO]   Clasificado: 08h46 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:09:13,463 [INFO]   Clasificado: 08h46 - PARTE - 000953-2025 - PROVIDENCIA.pdf | Proc: 000953 /2025
+2026-04-14 00:09:13,609 [INFO]   Clasificado: 08h42 - PARTE - 2022-2023 - SENTENCIA.pdf | Proc: 2022-2023
+2026-04-14 00:09:13,705 [INFO]   Clasificado: 09h10 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:09:15,342 [INFO]   Clasificado: 09h10 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:09:17,888 [INFO]   Clasificado: 09h10 - PARTE - 000953-2025 - Senalamiento vista.pdf | Proc: 000953 /2025
+2026-04-14 00:09:22,794 [INFO]   Clasificado: 12h10 - PARTE - 00050-2026 - AUTO.pdf | Proc: 00050/2026
+2026-04-14 00:09:24,494 [INFO]   Clasificado: 07h29 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:09:29,383 [INFO]   Clasificado: 07h29 - PARTE - 0050-2026 - AUTO.pdf | Proc: 0050/2026
+2026-04-14 00:09:31,034 [INFO]   Clasificado: 06h37 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:09:31,049 [INFO]   Clasificado: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:09:31,133 [INFO]   Clasificado: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:09:32,755 [INFO]   Clasificado: 08h11 - PARTE - 001291-2025 - Dil ordenacion.pdf | Proc: 001291 /2025
+2026-04-14 00:09:32,935 [INFO]   Clasificado: 05h58 - THE LAST ONE COMPANY - 001291-2025 - Dil ordenacion.pdf | Proc: 001291/2025
+2026-04-14 00:09:34,538 [INFO]   Clasificado: 06h15 - PARTE - 001291-2025 - Dil ordenacion.pdf | Proc: 001291 /2025
+2026-04-14 00:09:34,649 [INFO]   Clasificado: 10h13 - PARTE - 001291-2025 - NOTIFICACION.pdf | Proc: 001291/2025
+2026-04-14 00:09:34,823 [INFO]   Clasificado: 10h13 - PARTE - 001291-2025 - Senalamiento vista.pdf | Proc: 001291/2025
+2026-04-14 00:09:36,519 [INFO]   Clasificado: 10h13 - PARTE - 001291-2025 - Dil requerimiento.pdf | Proc: 001291 /2025
+2026-04-14 00:09:38,230 [INFO]   Clasificado: 05h25 - PARTE - 001291-2025 - Dil ordenacion.pdf | Proc: 001291 /2025
+2026-04-14 00:09:39,985 [INFO]   Clasificado: 06h35 - PARTE - 001291-2025 - AUTO.pdf | Proc: 001291 /2025
+2026-04-14 00:09:39,985 [INFO] ============================================================
+2026-04-14 00:09:39,985 [INFO] FASE 3: Guardando en Notificaciones
+2026-04-14 00:09:39,985 [INFO] ============================================================
+2026-04-14 00:09:39,986 [INFO]   Guardado: 08h51 - PARTE - 686-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:39,986 [INFO]   Guardado: 05h24 - PARTE - 12-2026 - Dil ordenacion.pdf
+2026-04-14 00:09:39,987 [INFO]   Guardado: 12h58 - PARTE - 001132-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:39,987 [INFO]   Guardado: 08h54 - PARTE - 0000440-2024 - Providencia senalamiento.pdf
+2026-04-14 00:09:39,988 [INFO]   Guardado: 09h31 - PARTE - 00437-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:39,989 [INFO]   Guardado: 02h57 - PARTE - 0000440-2024 - Dil ordenacion.pdf
+2026-04-14 00:09:39,989 [INFO]   Guardado: 06h38 - PARTE - 0000440-2024 - Senalamiento vista.pdf
+2026-04-14 00:09:39,990 [INFO]   Guardado: 06h38 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:39,990 [INFO]   Guardado: 14h40 - PARTE - 190-2016 - DILIGENCIA.pdf
+2026-04-14 00:09:39,991 [INFO]   Guardado: 06h32 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:39,991 [INFO]   Guardado: 09h08 - PARTE - 190-2016 - DILIGENCIA.pdf
+2026-04-14 00:09:39,991 [INFO]   Guardado: 09h08 - PARTE - 000190-2016 - DILIGENCIA.pdf
+2026-04-14 00:09:39,992 [INFO]   Guardado: 09h08 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:39,992 [INFO]   Guardado: 08h48 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:39,993 [INFO]   Guardado: 09h31 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:39,993 [INFO]   Guardado: 09h31 - PARTE - 1754-2006 - Senalamiento vista.pdf
+2026-04-14 00:09:39,994 [INFO]   Guardado: 09h31 - PARTE - 1720-2007 - Senalamiento vista.pdf
+2026-04-14 00:09:39,994 [INFO]   Guardado: 05h03 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:39,994 [INFO]   Guardado: 05h03 - PARTE - 0000190-2016 - NOTIFICACION.pdf
+2026-04-14 00:09:39,995 [INFO]   Guardado: 05h03 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:39,996 [INFO]   Guardado: 05h03 - PARTE - 1754-2006 - Senalamiento vista.pdf
+2026-04-14 00:09:39,996 [INFO]   Guardado: 05h03 - PARTE - 1720-2007 - Senalamiento vista.pdf
+2026-04-14 00:09:39,997 [INFO]   Guardado: 15h14 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:39,997 [INFO]   Guardado: 15h14 - PARTE - 000190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:39,998 [INFO]   Guardado: 02h54 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:39,998 [INFO]   Guardado: 02h54 - PARTE - 000190-2016 - PROVIDENCIA.pdf
+2026-04-14 00:09:39,998 [INFO]   Guardado: 09h51 - PARTE - 000056-2024 - Dil ordenacion.pdf
+2026-04-14 00:09:39,999 [INFO]   Guardado: 09h18 - PARTE - 000056-2024 - Auto admision.pdf
+2026-04-14 00:09:39,999 [INFO]   Guardado: 08h30 - PARTE - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:39,999 [INFO]   Guardado: 08h30 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,000 [INFO]   Guardado: 08h30 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,000 [INFO]   Guardado: 04h43 - THELASTONECOMPANY - 000003-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,000 [INFO]   Guardado: 08h44 - PARTE - SIN-PROC - Senalamiento vista.pdf
+2026-04-14 00:09:40,001 [INFO]   Guardado: 08h51 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,001 [INFO]   Guardado: 10h15 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,001 [INFO]   Guardado: 10h15 - PARTE - 000048-2025 - PROVIDENCIA.pdf
+2026-04-14 00:09:40,002 [INFO]   Guardado: 09h39 - Fidel Pedro García Ruiz - SIN-PROC - Dil ordenacion.pdf
+2026-04-14 00:09:40,005 [INFO]   Guardado: 09h39 - FIDEL PEDRO - 000139-2024 - Dil ordenacion.pdf
+2026-04-14 00:09:40,006 [INFO]   Guardado: 09h48 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,006 [INFO]   Guardado: 07h45 - Relación de todas las cue - 000048-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,007 [INFO]   Guardado: 07h45 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,007 [INFO]   Guardado: 08h38 - Adolfo González Galilea - 1087- 2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,007 [INFO]   Guardado: 08h38 - Materia Derecho de famili - 136- 2022 - Senalamiento vista.pdf
+2026-04-14 00:09:40,008 [INFO]   Guardado: 08h38 - Materia Derecho de famili - 1146-2023 - Dil ordenacion.pdf
+2026-04-14 00:09:40,008 [INFO]   Guardado: 06h59 - PARTE - 001132-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,009 [INFO]   Guardado: 06h14 - para que en plazo de DIEZ - 000686-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,009 [INFO]   Guardado: 06h21 - PARTE - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,010 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,010 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION_1.pdf
+2026-04-14 00:09:40,011 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION_2.pdf
+2026-04-14 00:09:40,011 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION_3.pdf
+2026-04-14 00:09:40,012 [INFO]   Guardado: 02h21 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,012 [INFO]   Guardado: 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,012 [INFO]   Guardado: 10h03 - PARTE - 197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,012 [INFO]   Guardado: 10h03 - PARTE - SIN-PROC - NOTIFICACION_1.pdf
+2026-04-14 00:09:40,012 [INFO]   Guardado: 10h03 - PARTE - SIN-PROC - NOTIFICACION_2.pdf
+2026-04-14 00:09:40,013 [INFO]   Guardado: 10h03 - en las entidades de crédi - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,013 [INFO]   Guardado: 10h03 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,014 [INFO]   Guardado: 14h25 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,014 [INFO]   Guardado: 08h52 - LA PRESENTACIÓN DE TASACI - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,014 [INFO]   Guardado: 08h46 - a fin de que en - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,015 [INFO]   Guardado: 07h07 - PARTE - 148-2018 - Senalamiento vista.pdf
+2026-04-14 00:09:40,016 [INFO]   Guardado: 07h07 - PARTE - 197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,016 [INFO]   Guardado: 07h07 - PARTE - 113-2025 - NOTIFICACION.pdf
+2026-04-14 00:09:40,017 [INFO]   Guardado: 10h12 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,017 [INFO]   Guardado: 10h54 - PARTE - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,017 [INFO]   Guardado: 10h54 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,017 [INFO]   Guardado: 10h54 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,018 [INFO]   Guardado: 04h46 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,018 [INFO]   Guardado: 10h30 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,019 [INFO]   Guardado: 06h12 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,019 [INFO]   Guardado: 13h01 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,019 [INFO]   Guardado: 13h05 - PARTE - SIN-PROC - Senalamiento vista.pdf
+2026-04-14 00:09:40,020 [INFO]   Guardado: 14h15 - PARTE - 000628-2019 - Dil ordenacion.pdf
+2026-04-14 00:09:40,020 [INFO]   Guardado: 06h33 - PARTE - 000990-2025 - Auto archivo.pdf
+2026-04-14 00:09:40,020 [INFO]   Guardado: 04h59 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,021 [INFO]   Guardado: 03h05 - PARTE - 000990-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,021 [INFO]   Guardado: 13h07 - PARTE - 000990-2025 - NOTIFICACION.pdf
+2026-04-14 00:09:40,021 [INFO]   Guardado: 08h25 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,022 [INFO]   Guardado: 05h59 - PARTE - 00053-2026 - AUTO.pdf
+2026-04-14 00:09:40,022 [INFO]   Guardado: 07h38 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,023 [INFO]   Guardado: 07h38 - PARTE - 000990-2025 - AUTO.pdf
+2026-04-14 00:09:40,023 [INFO]   Guardado: 06h38 - PARTE - 001521-2023 - DECRETO.pdf
+2026-04-14 00:09:40,024 [INFO]   Guardado: 06h38 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,024 [INFO]   Guardado: 08h46 - PARTE - 000953-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,025 [INFO]   Guardado: 08h46 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,025 [INFO]   Guardado: 08h46 - PARTE - 000953-2025 - PROVIDENCIA.pdf
+2026-04-14 00:09:40,026 [INFO]   Guardado: 08h42 - PARTE - 2022-2023 - SENTENCIA.pdf
+2026-04-14 00:09:40,026 [INFO]   Guardado: 09h10 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,027 [INFO]   Guardado: 09h10 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,027 [INFO]   Guardado: 09h10 - PARTE - 000953-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,028 [INFO]   Guardado: 12h10 - PARTE - 00050-2026 - AUTO.pdf
+2026-04-14 00:09:40,028 [INFO]   Guardado: 07h29 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,028 [INFO]   Guardado: 07h29 - PARTE - 0050-2026 - AUTO.pdf
+2026-04-14 00:09:40,029 [INFO]   Guardado: 06h37 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,029 [INFO]   Guardado: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,030 [INFO]   Guardado: 06h37 - PARTE - SIN-PROC - NOTIFICACION_1.pdf
+2026-04-14 00:09:40,030 [INFO]   Guardado: 08h11 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,030 [INFO]   Guardado: 05h58 - THE LAST ONE COMPANY - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,031 [INFO]   Guardado: 06h15 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,031 [INFO]   Guardado: 10h13 - PARTE - 001291-2025 - NOTIFICACION.pdf
+2026-04-14 00:09:40,031 [INFO]   Guardado: 10h13 - PARTE - 001291-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,032 [INFO]   Guardado: 10h13 - PARTE - 001291-2025 - Dil requerimiento.pdf
+2026-04-14 00:09:40,032 [INFO]   Guardado: 05h25 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [INFO]   Guardado: 06h35 - PARTE - 001291-2025 - AUTO.pdf
+2026-04-14 00:09:40,033 [INFO] ============================================================
+2026-04-14 00:09:40,033 [INFO] FASE 4: Clasificando en Usu2
+2026-04-14 00:09:40,033 [INFO] ============================================================
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Riojastur Calidad, SL' para 08h51 - PARTE - 686-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 12-2026' para 05h24 - PARTE - 12-2026 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Antolín, David' para 12h58 - PARTE - 001132-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 440-2024' para 08h54 - PARTE - 0000440-2024 - Providencia senalamiento.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 437-2025' para 09h31 - PARTE - 00437-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 440-2024' para 02h57 - PARTE - 0000440-2024 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 440-2024' para 06h38 - PARTE - 0000440-2024 - Senalamiento vista.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 06h38 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 14h40 - PARTE - 190-2016 - DILIGENCIA.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 06h32 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h08 - PARTE - 190-2016 - DILIGENCIA.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h08 - PARTE - 000190-2016 - DILIGENCIA.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h08 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h48 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h31 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1754-2006' para 09h31 - PARTE - 1754-2006 - Senalamiento vista.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1720-2007' para 09h31 - PARTE - 1720-2007 - Senalamiento vista.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 05h03 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 05h03 - PARTE - 0000190-2016 - NOTIFICACION.pdf
+2026-04-14 00:09:40,033 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 05h03 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1754-2006' para 05h03 - PARTE - 1754-2006 - Senalamiento vista.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1720-2007' para 05h03 - PARTE - 1720-2007 - Senalamiento vista.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 15h14 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 15h14 - PARTE - 000190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 02h54 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 02h54 - PARTE - 000190-2016 - PROVIDENCIA.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h51 - PARTE - 000056-2024 - Dil ordenacion.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h18 - PARTE - 000056-2024 - Auto admision.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h30 - PARTE - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h30 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,034 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h30 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 04h43 - THELASTONECOMPANY - 000003-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 08h44 - PARTE - SIN-PROC - Senalamiento vista.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 08h51 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 10h15 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 10h15 - PARTE - 000048-2025 - PROVIDENCIA.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 09h39 - Fidel Pedro García Ruiz - SIN-PROC - Dil ordenacion.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 09h39 - FIDEL PEDRO - 000139-2024 - Dil ordenacion.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 09h48 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 07h45 - Relación de todas las cue - 000048-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,035 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 07h45 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,036 [WARNING]   SIN MAPEO: 08h38 - Adolfo González Galilea - 1087- 2025 - Senalamiento vista.pdf (Proc: 1087/
+2025, Asunto: URGENTE ADOLFO, FIDEL Y TOMAS)
+2026-04-14 00:09:40,036 [WARNING]   SIN MAPEO: 08h38 - Materia Derecho de famili - 136- 2022 - Senalamiento vista.pdf (Proc: 136/
+2022, Asunto: URGENTE ADOLFO, FIDEL Y TOMAS)
+2026-04-14 00:09:40,036 [WARNING]   SIN MAPEO: 08h38 - Materia Derecho de famili - 1146-2023 - Dil ordenacion.pdf (Proc: 1146/2023, Asunto: URGENTE ADOLFO, FIDEL Y TOMAS)
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Antolín, David' para 06h59 - PARTE - 001132-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Riojastur Calidad, SL' para 06h14 - para que en plazo de DIEZ - 000686-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 02h21 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - 197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - en las entidades de crédi - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 14h25 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 08h52 - LA PRESENTACIÓN DE TASACI - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,036 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 08h46 - a fin de que en - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 07h07 - PARTE - 148-2018 - Senalamiento vista.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 07h07 - PARTE - 197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 07h07 - PARTE - 113-2025 - NOTIFICACION.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h12 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h54 - PARTE - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h54 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h54 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 04h46 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h30 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h12 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 13h01 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Calahorra Zapatero, Luis Javier' para 13h05 - PARTE - SIN-PROC - Senalamiento vista.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Calahorra Zapatero, Luis Javier' para 14h15 - PARTE - 000628-2019 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 06h33 - PARTE - 000990-2025 - Auto archivo.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 04h59 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 03h05 - PARTE - 000990-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 13h07 - PARTE - 000990-2025 - NOTIFICACION.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h25 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   SIN MAPEO: 05h59 - PARTE - 00053-2026 - AUTO.pdf (Proc: 53/2026, Asunto: Martinez Casero, Jorge Segunda Oportunid)
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h38 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h38 - PARTE - 000990-2025 - AUTO.pdf
+2026-04-14 00:09:40,037 [WARNING]   SIN MAPEO: 06h38 - PARTE - 001521-2023 - DECRETO.pdf (Proc: 1521/2023, Asunto: Martinez Casero, Jorge Segunda Oportunid)
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 06h38 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h46 - PARTE - 000953-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h46 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,037 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h46 - PARTE - 000953-2025 - PROVIDENCIA.pdf
+2026-04-14 00:09:40,037 [WARNING]   SIN MAPEO: 08h42 - PARTE - 2022-2023 - SENTENCIA.pdf (Proc: 2022/2023, Asunto: RE: Demanda Segunda Oportunidad Jose Ant)
+2026-04-14 00:09:40,038 [WARNING]   SIN MAPEO: 09h10 - PARTE - SIN-PROC - NOTIFICACION.pdf (Proc: , Asunto: Demanda Segunda Oportunidad Jose Antonio)
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 09h10 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 09h10 - PARTE - 000953-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 12h10 - PARTE - 00050-2026 - AUTO.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h29 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h29 - PARTE - 0050-2026 - AUTO.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 06h37 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,038 [WARNING]   SIN MAPEO: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf (Proc: , Asunto: Demanda Segunda Oportunidad Jose Antonio)
+2026-04-14 00:09:40,038 [WARNING]   SIN MAPEO: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf (Proc: , Asunto: Demanda Segunda Oportunidad Jose Antonio)
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 08h11 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 05h58 - THE LAST ONE COMPANY - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 06h15 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 10h13 - PARTE - 001291-2025 - NOTIFICACION.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 10h13 - PARTE - 001291-2025 - Senalamiento vista.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 10h13 - PARTE - 001291-2025 - Dil requerimiento.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 05h25 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:09:40,038 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 06h35 - PARTE - 001291-2025 - AUTO.pdf
+2026-04-14 00:09:40,038 [INFO] ============================================================
+2026-04-14 00:09:40,038 [INFO] FASE 5: Generando informe
+2026-04-14 00:09:40,038 [INFO] ============================================================
+2026-04-14 00:09:40,039 [INFO] Informe: C:\Users\santi\OneDrive - Aserges\judicial_diario/2026-04-06_al_2026-04-14/informe_clasificacion.md
+2026-04-14 00:10:12,034 [INFO] ============================================================
+2026-04-14 00:10:12,034 [INFO] FASE 1: Descarga Gmail MCP | 2026-04-06 -> 2026-04-14
+2026-04-14 00:10:12,034 [INFO] ============================================================
+2026-04-14 00:10:12,035 [INFO] Query Gmail: has:attachment after:2026/04/06 before:2026/04/15
+2026-04-14 00:10:12,040 [INFO] Resultado Gmail MCP leído desde /tmp/gmail_threads_result.json
+2026-04-14 00:10:12,040 [INFO] Hilos encontrados: 14
+2026-04-14 00:10:12,040 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Riojastur
+2026-04-14 00:10:12,041 [INFO]   PDF descargado: acuse de presentación MON 686-25 ESCRITO APORTANDO TASA 696_1.pdf
+2026-04-14 00:10:12,041 [INFO] Correo procurador: <procurador@solasortega.com> | RE: The last One. PO 1497/2025, PMC 3/2025
+2026-04-14 00:10:12,041 [INFO]   PDF descargado: acuse de presentación PMA 3-25 ACLARACION_1.pdf
+2026-04-14 00:10:12,041 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda MMC David Antolín MMC 1132/25
+2026-04-14 00:10:12,042 [INFO]   PDF descargado: elena clavijo MMC 1132-25 dilig señalamiento vista_1.pdf
+2026-04-14 00:10:12,042 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,042 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 RT 440-24 prov_1.pdf
+2026-04-14 00:10:12,042 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,043 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 RT 440-24 auto_1.pdf
+2026-04-14 00:10:12,043 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,043 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 RT 440-24 dilig_1.pdf
+2026-04-14 00:10:12,044 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,044 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 testimonio auto_1.pdf
+2026-04-14 00:10:12,045 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 dilig_2.pdf
+2026-04-14 00:10:12,045 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,045 [INFO]   PDF descargado: 2016_0000190_PC_20251082981823420251119114717_01-SE INDICA CIF DE CARTER ROBINSON LEGAL ASSOCIATED SLP PARA REALIZAR CON_1.pdf
+2026-04-14 00:10:12,045 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,045 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 dilig_3.pdf
+2026-04-14 00:10:12,045 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,046 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0005 escrito acusación particular_1.pdf
+2026-04-14 00:10:12,047 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0005 dilig_1.pdf
+2026-04-14 00:10:12,048 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0005 dilig unión y consulta_1.pdf
+2026-04-14 00:10:12,048 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,048 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_5.pdf
+2026-04-14 00:10:12,049 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,049 [INFO]   PDF descargado: 2016_0000190_PC_20251083357255320251201135108_01-ALEGACIONES A RECURSO DE REPOSICION CONTRA DECRETO DE 14-11-25_signed.p_1.pdf
+2026-04-14 00:10:12,050 [INFO]   PDF descargado: 2016_0000190_PC_20251083357255320251201135108_02-DOC 1 - INFORMACION REGISTRAL - REGISTRO PROPIEDAD PUERTO DEL ROSARIO 2_1.pdf
+2026-04-14 00:10:12,050 [INFO]   PDF descargado: 2016_0000190_PC_20251083357255320251201135108_03-DOC 2 - INFORME EJECUTIVO DE ANGEL DAVID SALIDO SAENZ SAMANIEGO 2025-11_1.pdf
+2026-04-14 00:10:12,050 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,051 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_6.pdf
+2026-04-14 00:10:12,051 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 informe Fiscal_1.pdf
+2026-04-14 00:10:12,051 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 escrito de oposición al recurso_1.pdf
+2026-04-14 00:10:12,053 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 infomación registral_1.pdf
+2026-04-14 00:10:12,054 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 informe ejecutivo_1.pdf
+2026-04-14 00:10:12,054 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,054 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_7.pdf
+2026-04-14 00:10:12,055 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 decreto_1.pdf
+2026-04-14 00:10:12,055 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,056 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_8.pdf
+2026-04-14 00:10:12,056 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 prov_1.pdf
+2026-04-14 00:10:12,056 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,057 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PA 56-24 dilig_1.pdf
+2026-04-14 00:10:12,057 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,058 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PA 56-24 auto admisión pruebas_1.pdf
+2026-04-14 00:10:12,058 [INFO] Correo procurador: <procurador@solasortega.com> | Casero Miguel, Oscar DPA 190/2016
+2026-04-14 00:10:12,058 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 alegaciones denunciante_1.pdf
+2026-04-14 00:10:12,058 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 escrito del Fiscal_1.pdf
+2026-04-14 00:10:12,059 [INFO]   PDF descargado: oscar casero y david salido DPA 190-16 PC 190-16 0002 dilig_9.pdf
+2026-04-14 00:10:12,059 [INFO] Correo procurador: <procurador@solasortega.com> | RE: The Last One Pieza MMCC 3/2025
+2026-04-14 00:10:12,060 [INFO]   PDF descargado: acuse de presentación PMA 3-25 aclaración auto_1.pdf
+2026-04-14 00:10:12,060 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:10:12,061 [INFO]   PDF descargado: acuse de presentación LSG 48-25_1.pdf
+2026-04-14 00:10:12,061 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:10:12,061 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 dilig_3.pdf
+2026-04-14 00:10:12,061 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:10:12,062 [INFO]   PDF descargado: fidel pedro LSG 48-25 dilig señalando fecha vista_1.pdf
+2026-04-14 00:10:12,062 [INFO]   PDF descargado: fidel pedro LSG 48-25 prov_1.pdf
+2026-04-14 00:10:12,062 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:10:12,063 [INFO]   PDF descargado: 2025_0000048_LSG_20261085922304020260305140616_001_PROPOSICION DE PRUEBA_1.pdf
+2026-04-14 00:10:12,066 [INFO]   PDF descargado: 2025_0000048_LSG_20261085922304020260305140616_002_DOCUMENTO 1 ACTA PRESENCIA 31 OCTUBRE 2025_1.pdf
+2026-04-14 00:10:12,066 [INFO] Correo procurador: <procurador@solasortega.com> | Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:10:12,066 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 dilig_4.pdf
+2026-04-14 00:10:12,066 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Garcia Ruiz, Fidel Pedro LSG 48/25
+2026-04-14 00:10:12,067 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 prov_1.pdf
+2026-04-14 00:10:12,067 [INFO]   PDF descargado: fidel pedro garcia LSG 48-25 dilig_5.pdf
+2026-04-14 00:10:12,067 [INFO] Correo procurador: <procurador@solasortega.com> | URGENTE ADOLFO, FIDEL Y TOMAS
+2026-04-14 00:10:12,068 [INFO]   PDF descargado: acuse de presentación y de aceptación DEMANDA ADOLFO GONZALEZ GALILEA RENDICION DE CUENTAS_1.pdf
+2026-04-14 00:10:12,068 [INFO]   PDF descargado: acuse de presentación y de aceptación DEMANDA FIDEL PEDRO GARCIA RUIZ MODIFICACION MEDIDAS DEL DCT 136-22_1.pdf
+2026-04-14 00:10:12,068 [INFO]   PDF descargado: acuse de presentación y de aceptación DEMANDA TOMAS ESTEBAN PINILLOS MODIFICACION DE MEDIDAS DEFINITIVAS_1.pdf
+2026-04-14 00:10:12,069 [INFO] Correo procurador: <procurador@solasortega.com> | URGENTE PLAZO Demanda MMC David Antolín MMC 1132/25
+2026-04-14 00:10:12,069 [INFO]   PDF descargado: elena clavijo MMC 1132-25 dilig_1.pdf
+2026-04-14 00:10:12,069 [INFO] Correo procurador: <procurador@solasortega.com> | RV: URGENTE PLAZO RIOJASTUR CALIDAD MON 686/25 CALAHORRA 3
+2026-04-14 00:10:12,069 [INFO]   PDF descargado: riojastur calidad MON 686-25 dilig_1.pdf
+2026-04-14 00:10:12,069 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,070 [INFO]   PDF descargado: acuse de presentación ENJ 197-17_2.pdf
+2026-04-14 00:10:12,070 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 1_1.pdf
+2026-04-14 00:10:12,071 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 2_1.pdf
+2026-04-14 00:10:12,072 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 3_1.pdf
+2026-04-14 00:10:12,072 [INFO]   PDF descargado: ENJ 197-17 listado de movimientos 4_1.pdf
+2026-04-14 00:10:12,072 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,073 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_9.pdf
+2026-04-14 00:10:12,073 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,073 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 AVERIGUACION PATRIMONIAL ALFONSO.PDF_1.pdf
+2026-04-14 00:10:12,073 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 AVERIGUACION PATRIMONIAL BEATRIZ.PDF_1.pdf
+2026-04-14 00:10:12,074 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 SITUACION TGSS ALFONSO.PDF_1.pdf
+2026-04-14 00:10:12,074 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 SITUACION TGSS BEATRIZ.PDF_1.pdf
+2026-04-14 00:10:12,074 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig de ord_1.pdf
+2026-04-14 00:10:12,075 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_10.pdf
+2026-04-14 00:10:12,075 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,075 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_11.pdf
+2026-04-14 00:10:12,075 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales 
+2026-04-14 00:10:12,076 [INFO]   PDF descargado: acuse de presentación ENJ 197-17_3.pdf
+2026-04-14 00:10:12,076 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,076 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_12.pdf
+2026-04-14 00:10:12,076 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,077 [INFO]   PDF descargado: 2017_0000197_ENJ_20251078092552320250528094224_000_ESCRITO TASACION DE COSTAS Y LIQ INTERESESESC ALEGACIONES TC Y LI_1.pdf
+2026-04-14 00:10:12,077 [INFO]   PDF descargado: 2017_0000197_ENJ_20251078092552320250528094224_001_DOC 1 MINUTA PROCURADOR_1.pdf
+2026-04-14 00:10:12,078 [INFO]   PDF descargado: 2017_0000197_ENJ_20251078092552320250528094224_002_DOC 2 MINUTA LETRADO_1.pdf
+2026-04-14 00:10:12,078 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,079 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_13.pdf
+2026-04-14 00:10:12,079 [INFO] Correo procurador: <procurador@solasortega.com> |  Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ
+2026-04-14 00:10:12,079 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 escrito Beatriz_1.pdf
+2026-04-14 00:10:12,079 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 movimientos de la cuenta_1.pdf
+2026-04-14 00:10:12,080 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_14.pdf
+2026-04-14 00:10:12,080 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,080 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_15.pdf
+2026-04-14 00:10:12,080 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,081 [INFO]   PDF descargado: beatriz y alfonso ENJ 197-17 dilig_1.pdf
+2026-04-14 00:10:12,081 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,081 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_16.pdf
+2026-04-14 00:10:12,081 [INFO] Correo procurador: <procurador@solasortega.com> | Lázaro Vallejo, Beatriz Ejecución Títulos No Judiciales ENJ 
+2026-04-14 00:10:12,082 [INFO]   PDF descargado: alfonso y beatriz ENJ 197-17 dilig_17.pdf
+2026-04-14 00:10:12,082 [INFO] Correo procurador: <procurador@solasortega.com> | Calahorra Zapatero, Luis Javier Nave ABANCA EJH 628/2019
+2026-04-14 00:10:12,082 [INFO]   PDF descargado: 2019_0000628_EJH_20261086864143020260408153651_SOLICITAMOS vista ocupantes fdo_1.pdf
+2026-04-14 00:10:12,082 [INFO] Correo procurador: <procurador@solasortega.com> | Calahorra Zapatero, Luis Javier Nave ABANCA EJH 628/2019
+2026-04-14 00:10:12,083 [INFO]   PDF descargado: luis javier calahorra EJH 628-19 dilig_1.pdf
+2026-04-14 00:10:12,083 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,083 [INFO]   PDF descargado: acuse de presentación CNO 990-25 SOLICITUD EPI_1.pdf
+2026-04-14 00:10:12,083 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,083 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig_4.pdf
+2026-04-14 00:10:12,084 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,084 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 decreto_1.pdf
+2026-04-14 00:10:12,084 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,084 [INFO]   PDF descargado: acuse de presentación CNO 990-25_1.pdf
+2026-04-14 00:10:12,084 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,085 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig_5.pdf
+2026-04-14 00:10:12,085 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,085 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 auto rec EPI y conclusion CNO sin masa_1.pdf
+2026-04-14 00:10:12,086 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,086 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,086 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig_6.pdf
+2026-04-14 00:10:12,087 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 testimonio firmeza auto conclusion_1.pdf
+2026-04-14 00:10:12,087 [INFO] Correo procurador: <procurador@solasortega.com> | Martinez Casero, Jorge Segunda Oportunidad
+2026-04-14 00:10:12,087 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 OFICIO COMUNICANDO SUSPENSION ENJ 1521-23_1.pdf
+2026-04-14 00:10:12,088 [INFO]   PDF descargado: jorge martinez casero CNO 990-25 dilig_7.pdf
+2026-04-14 00:10:12,088 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:10:12,088 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 TESTIMONIO FIRMEZA AUTO DECLARACION CNO SIN _1.pdf
+2026-04-14 00:10:12,089 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 DIOR FIRMEZA AUTO DECLARACION_1.pdf
+2026-04-14 00:10:12,090 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 prov_1.pdf
+2026-04-14 00:10:12,090 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Demanda Segunda Oportunidad Jose Antonio Caparrós y Jose
+2026-04-14 00:10:12,090 [INFO]   PDF descargado: acuse de presentación CNO 953-25_1.pdf
+2026-04-14 00:10:12,090 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:10:12,091 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 registro civil villamediana_1.pdf
+2026-04-14 00:10:12,091 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 dilig_2.pdf
+2026-04-14 00:10:12,092 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 decreto admision sol epi_1.pdf
+2026-04-14 00:10:12,092 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:10:12,092 [INFO]   PDF descargado: jose antonio caparros y josefina AUTO REC EPI Y CONCLUSION CNO SIN MASA_1.pdf
+2026-04-14 00:10:12,092 [INFO] Correo procurador: <procurador@solasortega.com> | RE: Demanda Segunda Oportunidad Jose Antonio Caparrós y Jose
+2026-04-14 00:10:12,093 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 dilig_3.pdf
+2026-04-14 00:10:12,093 [INFO]   PDF descargado: jose antonio caparros y josefina CNO 953-25 testimonio firmeza auto conclusion_1.pdf
+2026-04-14 00:10:12,093 [INFO] Correo procurador: <procurador@solasortega.com> | Demanda Segunda Oportunidad Jose Antonio Caparrós y Josefina
+2026-04-14 00:10:12,094 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 dilig_1.pdf
+2026-04-14 00:10:12,094 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 REG CIVIL RIBAFRECHA INSCRPCION CONCLUSION J_1.pdf
+2026-04-14 00:10:12,095 [INFO]   PDF descargado: jose antonio y josefina CNO 953-25 REG. CIVIL VILLAMEDIANA DE IREGUA INSCRIPCIO_1.pdf
+2026-04-14 00:10:12,095 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:10:12,095 [INFO]   PDF descargado: the last one company X45 1291-25 dilig_3.pdf
+2026-04-14 00:10:12,095 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:10:12,095 [INFO]   PDF descargado: acuse de presentación X45 1291-25 escrito aportando depósito_1.pdf
+2026-04-14 00:10:12,096 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:10:12,096 [INFO]   PDF descargado: the last one company X45 1291-25 dilig_4.pdf
+2026-04-14 00:10:12,096 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:10:12,096 [INFO]   PDF descargado: the last one X45 1291-25 escrito aceptando nombramiento_1.pdf
+2026-04-14 00:10:12,097 [INFO]   PDF descargado: the last one X45 1291-25 escrito sol provisión de fondos_1.pdf
+2026-04-14 00:10:12,097 [INFO]   PDF descargado: the last one X45 1291-25 dilig_1.pdf
+2026-04-14 00:10:12,097 [INFO] Correo procurador: <procurador@solasortega.com> | RE: The Last One Company, S.L. Nombramiento Auditor X45 1291
+2026-04-14 00:10:12,097 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:10:12,098 [INFO]   PDF descargado: the last one company X45 1291-25 dilig_5.pdf
+2026-04-14 00:10:12,098 [INFO] Correo procurador: <procurador@solasortega.com> | The Last One Company, S.L. Nombramiento Auditor X45 1291/202
+2026-04-14 00:10:12,099 [INFO]   PDF descargado: the last one company X45 1291-25 auto_1.pdf
+2026-04-14 00:10:12,099 [INFO] Total PDFs descargados: 105
+2026-04-14 00:10:12,608 [INFO]   Clasificado: 08h51 - PARTE - 686-2025 - Dil ordenacion.pdf | Proc: 686/2025
+2026-04-14 00:10:12,772 [INFO]   Clasificado: 05h24 - PARTE - 12-2026 - Dil ordenacion.pdf | Proc: 12/2026
+2026-04-14 00:10:14,500 [INFO]   Clasificado: 12h58 - PARTE - 001132-2025 - Dil ordenacion.pdf | Proc: 001132 /2025
+2026-04-14 00:10:16,123 [INFO]   Clasificado: 08h54 - PARTE - 0000440-2024 - Providencia senalamiento.pdf | Proc: 0000440 /2024
+2026-04-14 00:10:22,635 [INFO]   Clasificado: 09h31 - PARTE - 00437-2025 - Senalamiento vista.pdf | Proc: 00437/2025
+2026-04-14 00:10:23,644 [INFO]   Clasificado: 02h57 - PARTE - 0000440-2024 - Dil ordenacion.pdf | Proc: 0000440 /2024
+2026-04-14 00:10:30,179 [INFO]   Clasificado: 06h38 - PARTE - 0000440-2024 - Senalamiento vista.pdf | Proc: 0000440 /2024
+2026-04-14 00:10:31,952 [INFO]   Clasificado: 06h38 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:32,068 [INFO]   Clasificado: 14h40 - PARTE - 190-2016 - DILIGENCIA.pdf | Proc: 190/2016
+2026-04-14 00:10:33,896 [INFO]   Clasificado: 06h32 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:34,008 [INFO]   Clasificado: 09h08 - PARTE - 190-2016 - DILIGENCIA.pdf | Proc: 190/2016
+2026-04-14 00:10:34,924 [INFO]   Clasificado: 09h08 - PARTE - 000190-2016 - DILIGENCIA.pdf | Proc: 000190 /2016
+2026-04-14 00:10:36,743 [INFO]   Clasificado: 09h08 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:38,331 [INFO]   Clasificado: 08h48 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:38,592 [INFO]   Clasificado: 09h31 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf | Proc: 190/2016
+2026-04-14 00:10:39,321 [INFO]   Clasificado: 09h31 - PARTE - 1754-2006 - Senalamiento vista.pdf | Proc: 1754/2006
+2026-04-14 00:10:40,198 [INFO]   Clasificado: 09h31 - PARTE - 1720-2007 - Senalamiento vista.pdf | Proc: 1720/2007
+2026-04-14 00:10:41,769 [INFO]   Clasificado: 05h03 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:41,796 [INFO]   Clasificado: 05h03 - PARTE - 0000190-2016 - NOTIFICACION.pdf | Proc: 0000190/2016
+2026-04-14 00:10:42,056 [INFO]   Clasificado: 05h03 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf | Proc: 190/2016
+2026-04-14 00:10:42,791 [INFO]   Clasificado: 05h03 - PARTE - 1754-2006 - Senalamiento vista.pdf | Proc: 1754/2006
+2026-04-14 00:10:43,678 [INFO]   Clasificado: 05h03 - PARTE - 1720-2007 - Senalamiento vista.pdf | Proc: 1720/2007
+2026-04-14 00:10:45,285 [INFO]   Clasificado: 15h14 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:47,740 [INFO]   Clasificado: 15h14 - PARTE - 000190-2016 - Senalamiento vista.pdf | Proc: 000190 /2016
+2026-04-14 00:10:49,344 [INFO]   Clasificado: 02h54 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:50,952 [INFO]   Clasificado: 02h54 - PARTE - 000190-2016 - PROVIDENCIA.pdf | Proc: 000190 /2016
+2026-04-14 00:10:52,581 [INFO]   Clasificado: 09h51 - PARTE - 000056-2024 - Dil ordenacion.pdf | Proc: 000056 /2024
+2026-04-14 00:10:55,056 [INFO]   Clasificado: 09h18 - PARTE - 000056-2024 - Auto admision.pdf | Proc: 000056 /2024
+2026-04-14 00:10:55,266 [INFO]   Clasificado: 08h30 - PARTE - 190-2016 - Senalamiento vista.pdf | Proc: 190/2016
+2026-04-14 00:10:55,280 [INFO]   Clasificado: 08h30 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:10:56,901 [INFO]   Clasificado: 08h30 - PARTE - 000190-2016 - Dil ordenacion.pdf | Proc: 000190 /2016
+2026-04-14 00:10:57,143 [INFO]   Clasificado: 04h43 - THELASTONECOMPANY - 000003-2025 - Senalamiento vista.pdf | Proc: 000003/2025
+2026-04-14 00:10:57,260 [INFO]   Clasificado: 08h44 - PARTE - SIN-PROC - Senalamiento vista.pdf | Proc: N/A
+2026-04-14 00:10:58,100 [INFO]   Clasificado: 08h51 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:10:59,682 [INFO]   Clasificado: 10h15 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:11:01,245 [INFO]   Clasificado: 10h15 - PARTE - 000048-2025 - PROVIDENCIA.pdf | Proc: 000048 /2025
+2026-04-14 00:11:01,474 [INFO]   Clasificado: 09h39 - Fidel Pedro García Ruiz - SIN-PROC - Dil ordenacion.pdf | Proc: N/A
+2026-04-14 00:11:02,376 [INFO]   Clasificado: 09h39 - FIDEL PEDRO - 000139-2024 - Dil ordenacion.pdf | Proc: 000139 /2024
+2026-04-14 00:11:03,244 [INFO]   Clasificado: 09h48 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:11:05,675 [INFO]   Clasificado: 07h45 - Relación de todas las cue - 000048-2025 - Senalamiento vista.pdf | Proc: 000048 /2025
+2026-04-14 00:11:06,550 [INFO]   Clasificado: 07h45 - PARTE - 000048-2025 - Dil ordenacion.pdf | Proc: 000048 /2025
+2026-04-14 00:11:06,760 [INFO]   Clasificado: 08h38 - Adolfo González Galilea - 1087- 2025 - Senalamiento vista.pdf | Proc: 1087-
+2025
+2026-04-14 00:11:06,992 [INFO]   Clasificado: 08h38 - Materia Derecho de famili - 136- 2022 - Senalamiento vista.pdf | Proc: 136-
+2022
+2026-04-14 00:11:07,230 [INFO]   Clasificado: 08h38 - Materia Derecho de famili - 1146-2023 - Dil ordenacion.pdf | Proc: 1146/2023
+2026-04-14 00:11:08,818 [INFO]   Clasificado: 06h59 - PARTE - 001132-2025 - Dil ordenacion.pdf | Proc: 001132 /2025
+2026-04-14 00:11:10,522 [INFO]   Clasificado: 06h14 - para que en plazo de DIEZ - 000686-2025 - Dil ordenacion.pdf | Proc: 000686 /2025
+2026-04-14 00:11:10,662 [INFO]   Clasificado: 06h21 - PARTE - 000197-2017 - NOTIFICACION.pdf | Proc: 000197/2017
+2026-04-14 00:11:10,677 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:10,681 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:10,684 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:10,694 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:10,696 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:10,703 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:10,704 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:10,716 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,263 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:12,280 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,284 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,289 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,299 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,301 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,308 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,310 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:12,324 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,845 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:13,860 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,863 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,867 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,876 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,878 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,884 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,886 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:13,898 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,422 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:15,432 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,436 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,440 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,449 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,450 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,458 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,459 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:15,471 [WARNING] Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+2026-04-14 00:11:16,435 [INFO]   Clasificado: 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:18,004 [INFO]   Clasificado: 02h21 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:18,583 [INFO]   Clasificado: 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:19,092 [INFO]   Clasificado: 10h03 - PARTE - 197-2017 - NOTIFICACION.pdf | Proc: 197/2017
+2026-04-14 00:11:19,154 [INFO]   Clasificado: 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:19,214 [INFO]   Clasificado: 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:20,820 [INFO]   Clasificado: 10h03 - en las entidades de crédi - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:22,416 [INFO]   Clasificado: 10h03 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:24,019 [INFO]   Clasificado: 14h25 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:24,191 [INFO]   Clasificado: 08h52 - LA PRESENTACIÓN DE TASACI - 000197-2017 - NOTIFICACION.pdf | Proc: 000197/2017
+2026-04-14 00:11:25,746 [INFO]   Clasificado: 08h46 - a fin de que en - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:25,889 [INFO]   Clasificado: 07h07 - PARTE - 148-2018 - Senalamiento vista.pdf | Proc: 148/2018
+2026-04-14 00:11:26,022 [INFO]   Clasificado: 07h07 - PARTE - 197-2017 - NOTIFICACION.pdf | Proc: 197/2017
+2026-04-14 00:11:26,109 [INFO]   Clasificado: 07h07 - PARTE - 113-2025 - NOTIFICACION.pdf | Proc: 113/2025
+2026-04-14 00:11:27,703 [INFO]   Clasificado: 10h12 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:27,950 [INFO]   Clasificado: 10h54 - PARTE - 000197-2017 - NOTIFICACION.pdf | Proc: 000197 / 2017
+2026-04-14 00:11:29,039 [INFO]   Clasificado: 10h54 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:11:30,782 [INFO]   Clasificado: 10h54 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:32,427 [INFO]   Clasificado: 04h46 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:34,031 [INFO]   Clasificado: 10h30 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:35,633 [INFO]   Clasificado: 06h12 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:36,597 [INFO]   Clasificado: 13h01 - PARTE - 000197-2017 - Dil ordenacion.pdf | Proc: 000197 /2017
+2026-04-14 00:11:36,660 [INFO]   Clasificado: 13h05 - PARTE - SIN-PROC - Senalamiento vista.pdf | Proc: N/A
+2026-04-14 00:11:38,233 [INFO]   Clasificado: 14h15 - PARTE - 000628-2019 - Dil ordenacion.pdf | Proc: 000628 /2019
+2026-04-14 00:11:38,620 [INFO]   Clasificado: 06h33 - PARTE - 000990-2025 - Auto archivo.pdf | Proc: 000990/2025
+2026-04-14 00:11:40,306 [INFO]   Clasificado: 04h59 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:11:42,908 [INFO]   Clasificado: 03h05 - PARTE - 000990-2025 - Senalamiento vista.pdf | Proc: 000990 /2025
+2026-04-14 00:11:43,021 [INFO]   Clasificado: 13h07 - PARTE - 000990-2025 - NOTIFICACION.pdf | Proc: 000990/2025
+2026-04-14 00:11:44,685 [INFO]   Clasificado: 08h25 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:11:49,787 [INFO]   Clasificado: 05h59 - PARTE - 00053-2026 - AUTO.pdf | Proc: 00053/2026
+2026-04-14 00:11:51,899 [INFO]   Clasificado: 07h38 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:11:57,626 [INFO]   Clasificado: 07h38 - PARTE - 000990-2025 - AUTO.pdf | Proc: 000990 /2025
+2026-04-14 00:11:58,597 [INFO]   Clasificado: 06h38 - PARTE - 001521-2023 - DECRETO.pdf | Proc: 001521 /2023
+2026-04-14 00:12:00,143 [INFO]   Clasificado: 06h38 - PARTE - 000990-2025 - Dil ordenacion.pdf | Proc: 000990 /2025
+2026-04-14 00:12:04,266 [INFO]   Clasificado: 08h46 - PARTE - 000953-2025 - Senalamiento vista.pdf | Proc: 000953 /2025
+2026-04-14 00:12:06,026 [INFO]   Clasificado: 08h46 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:12:07,745 [INFO]   Clasificado: 08h46 - PARTE - 000953-2025 - PROVIDENCIA.pdf | Proc: 000953 /2025
+2026-04-14 00:12:07,891 [INFO]   Clasificado: 08h42 - PARTE - 2022-2023 - SENTENCIA.pdf | Proc: 2022-2023
+2026-04-14 00:12:07,990 [INFO]   Clasificado: 09h10 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:12:09,702 [INFO]   Clasificado: 09h10 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:12:12,245 [INFO]   Clasificado: 09h10 - PARTE - 000953-2025 - Senalamiento vista.pdf | Proc: 000953 /2025
+2026-04-14 00:12:17,501 [INFO]   Clasificado: 12h10 - PARTE - 00050-2026 - AUTO.pdf | Proc: 00050/2026
+2026-04-14 00:12:19,263 [INFO]   Clasificado: 07h29 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:12:24,404 [INFO]   Clasificado: 07h29 - PARTE - 0050-2026 - AUTO.pdf | Proc: 0050/2026
+2026-04-14 00:12:26,069 [INFO]   Clasificado: 06h37 - PARTE - 000953-2025 - Dil ordenacion.pdf | Proc: 000953 /2025
+2026-04-14 00:12:26,084 [INFO]   Clasificado: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:12:26,170 [INFO]   Clasificado: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf | Proc: N/A
+2026-04-14 00:12:27,754 [INFO]   Clasificado: 08h11 - PARTE - 001291-2025 - Dil ordenacion.pdf | Proc: 001291 /2025
+2026-04-14 00:12:27,925 [INFO]   Clasificado: 05h58 - THE LAST ONE COMPANY - 001291-2025 - Dil ordenacion.pdf | Proc: 001291/2025
+2026-04-14 00:12:29,527 [INFO]   Clasificado: 06h15 - PARTE - 001291-2025 - Dil ordenacion.pdf | Proc: 001291 /2025
+2026-04-14 00:12:29,637 [INFO]   Clasificado: 10h13 - PARTE - 001291-2025 - NOTIFICACION.pdf | Proc: 001291/2025
+2026-04-14 00:12:29,803 [INFO]   Clasificado: 10h13 - PARTE - 001291-2025 - Senalamiento vista.pdf | Proc: 001291/2025
+2026-04-14 00:12:31,486 [INFO]   Clasificado: 10h13 - PARTE - 001291-2025 - Dil requerimiento.pdf | Proc: 001291 /2025
+2026-04-14 00:12:33,126 [INFO]   Clasificado: 05h25 - PARTE - 001291-2025 - Dil ordenacion.pdf | Proc: 001291 /2025
+2026-04-14 00:12:34,835 [INFO]   Clasificado: 06h35 - PARTE - 001291-2025 - AUTO.pdf | Proc: 001291 /2025
+2026-04-14 00:12:34,836 [INFO] ============================================================
+2026-04-14 00:12:34,836 [INFO] FASE 3: Guardando en Notificaciones
+2026-04-14 00:12:34,836 [INFO] ============================================================
+2026-04-14 00:12:34,836 [INFO]   Guardado: 08h51 - PARTE - 686-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,836 [INFO]   Guardado: 05h24 - PARTE - 12-2026 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,837 [INFO]   Guardado: 12h58 - PARTE - 001132-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,837 [INFO]   Guardado: 08h54 - PARTE - 0000440-2024 - Providencia senalamiento_1.pdf
+2026-04-14 00:12:34,838 [INFO]   Guardado: 09h31 - PARTE - 00437-2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,838 [INFO]   Guardado: 02h57 - PARTE - 0000440-2024 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,839 [INFO]   Guardado: 06h38 - PARTE - 0000440-2024 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,840 [INFO]   Guardado: 06h38 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,840 [INFO]   Guardado: 14h40 - PARTE - 190-2016 - DILIGENCIA_1.pdf
+2026-04-14 00:12:34,840 [INFO]   Guardado: 06h32 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,840 [INFO]   Guardado: 09h08 - PARTE - 190-2016 - DILIGENCIA_1.pdf
+2026-04-14 00:12:34,841 [INFO]   Guardado: 09h08 - PARTE - 000190-2016 - DILIGENCIA_1.pdf
+2026-04-14 00:12:34,841 [INFO]   Guardado: 09h08 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,842 [INFO]   Guardado: 08h48 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,842 [INFO]   Guardado: 09h31 - en el referido procedimie - 190-2016 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,843 [INFO]   Guardado: 09h31 - PARTE - 1754-2006 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,843 [INFO]   Guardado: 09h31 - PARTE - 1720-2007 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,844 [INFO]   Guardado: 05h03 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,844 [INFO]   Guardado: 05h03 - PARTE - 0000190-2016 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,844 [INFO]   Guardado: 05h03 - en el referido procedimie - 190-2016 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,845 [INFO]   Guardado: 05h03 - PARTE - 1754-2006 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,846 [INFO]   Guardado: 05h03 - PARTE - 1720-2007 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,846 [INFO]   Guardado: 15h14 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,847 [INFO]   Guardado: 15h14 - PARTE - 000190-2016 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,847 [INFO]   Guardado: 02h54 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,848 [INFO]   Guardado: 02h54 - PARTE - 000190-2016 - PROVIDENCIA_1.pdf
+2026-04-14 00:12:34,848 [INFO]   Guardado: 09h51 - PARTE - 000056-2024 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,849 [INFO]   Guardado: 09h18 - PARTE - 000056-2024 - Auto admision_1.pdf
+2026-04-14 00:12:34,849 [INFO]   Guardado: 08h30 - PARTE - 190-2016 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,849 [INFO]   Guardado: 08h30 - PARTE - SIN-PROC - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,850 [INFO]   Guardado: 08h30 - PARTE - 000190-2016 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,850 [INFO]   Guardado: 04h43 - THELASTONECOMPANY - 000003-2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,850 [INFO]   Guardado: 08h44 - PARTE - SIN-PROC - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,851 [INFO]   Guardado: 08h51 - PARTE - 000048-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,851 [INFO]   Guardado: 10h15 - PARTE - 000048-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,851 [INFO]   Guardado: 10h15 - PARTE - 000048-2025 - PROVIDENCIA_1.pdf
+2026-04-14 00:12:34,852 [INFO]   Guardado: 09h39 - Fidel Pedro García Ruiz - SIN-PROC - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,855 [INFO]   Guardado: 09h39 - FIDEL PEDRO - 000139-2024 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,856 [INFO]   Guardado: 09h48 - PARTE - 000048-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,856 [INFO]   Guardado: 07h45 - Relación de todas las cue - 000048-2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,856 [INFO]   Guardado: 07h45 - PARTE - 000048-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,857 [INFO]   Guardado: 08h38 - Adolfo González Galilea - 1087- 2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,857 [INFO]   Guardado: 08h38 - Materia Derecho de famili - 136- 2022 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,858 [INFO]   Guardado: 08h38 - Materia Derecho de famili - 1146-2023 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,858 [INFO]   Guardado: 06h59 - PARTE - 001132-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,858 [INFO]   Guardado: 06h14 - para que en plazo de DIEZ - 000686-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,859 [INFO]   Guardado: 06h21 - PARTE - 000197-2017 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,859 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION_4.pdf
+2026-04-14 00:12:34,860 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION_5.pdf
+2026-04-14 00:12:34,860 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION_6.pdf
+2026-04-14 00:12:34,861 [INFO]   Guardado: 06h21 - PARTE - SIN-PROC - NOTIFICACION_7.pdf
+2026-04-14 00:12:34,861 [INFO]   Guardado: 02h21 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,861 [INFO]   Guardado: 10h03 - PARTE - SIN-PROC - NOTIFICACION_3.pdf
+2026-04-14 00:12:34,861 [INFO]   Guardado: 10h03 - PARTE - 197-2017 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,862 [INFO]   Guardado: 10h03 - PARTE - SIN-PROC - NOTIFICACION_4.pdf
+2026-04-14 00:12:34,862 [INFO]   Guardado: 10h03 - PARTE - SIN-PROC - NOTIFICACION_5.pdf
+2026-04-14 00:12:34,862 [INFO]   Guardado: 10h03 - en las entidades de crédi - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,863 [INFO]   Guardado: 10h03 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,863 [INFO]   Guardado: 14h25 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,863 [INFO]   Guardado: 08h52 - LA PRESENTACIÓN DE TASACI - 000197-2017 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,864 [INFO]   Guardado: 08h46 - a fin de que en - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,864 [INFO]   Guardado: 07h07 - PARTE - 148-2018 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,865 [INFO]   Guardado: 07h07 - PARTE - 197-2017 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,865 [INFO]   Guardado: 07h07 - PARTE - 113-2025 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,866 [INFO]   Guardado: 10h12 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,866 [INFO]   Guardado: 10h54 - PARTE - 000197-2017 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,866 [INFO]   Guardado: 10h54 - PARTE - SIN-PROC - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,867 [INFO]   Guardado: 10h54 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,867 [INFO]   Guardado: 04h46 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,867 [INFO]   Guardado: 10h30 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,868 [INFO]   Guardado: 06h12 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,868 [INFO]   Guardado: 13h01 - PARTE - 000197-2017 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,869 [INFO]   Guardado: 13h05 - PARTE - SIN-PROC - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,869 [INFO]   Guardado: 14h15 - PARTE - 000628-2019 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,869 [INFO]   Guardado: 06h33 - PARTE - 000990-2025 - Auto archivo_1.pdf
+2026-04-14 00:12:34,870 [INFO]   Guardado: 04h59 - PARTE - 000990-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,870 [INFO]   Guardado: 03h05 - PARTE - 000990-2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,870 [INFO]   Guardado: 13h07 - PARTE - 000990-2025 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,871 [INFO]   Guardado: 08h25 - PARTE - 000990-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,871 [INFO]   Guardado: 05h59 - PARTE - 00053-2026 - AUTO_1.pdf
+2026-04-14 00:12:34,872 [INFO]   Guardado: 07h38 - PARTE - 000990-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,872 [INFO]   Guardado: 07h38 - PARTE - 000990-2025 - AUTO_1.pdf
+2026-04-14 00:12:34,873 [INFO]   Guardado: 06h38 - PARTE - 001521-2023 - DECRETO_1.pdf
+2026-04-14 00:12:34,873 [INFO]   Guardado: 06h38 - PARTE - 000990-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,874 [INFO]   Guardado: 08h46 - PARTE - 000953-2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,874 [INFO]   Guardado: 08h46 - PARTE - 000953-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,875 [INFO]   Guardado: 08h46 - PARTE - 000953-2025 - PROVIDENCIA_1.pdf
+2026-04-14 00:12:34,875 [INFO]   Guardado: 08h42 - PARTE - 2022-2023 - SENTENCIA_1.pdf
+2026-04-14 00:12:34,876 [INFO]   Guardado: 09h10 - PARTE - SIN-PROC - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,876 [INFO]   Guardado: 09h10 - PARTE - 000953-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,876 [INFO]   Guardado: 09h10 - PARTE - 000953-2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,877 [INFO]   Guardado: 12h10 - PARTE - 00050-2026 - AUTO_1.pdf
+2026-04-14 00:12:34,877 [INFO]   Guardado: 07h29 - PARTE - 000953-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,878 [INFO]   Guardado: 07h29 - PARTE - 0050-2026 - AUTO_1.pdf
+2026-04-14 00:12:34,878 [INFO]   Guardado: 06h37 - PARTE - 000953-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,879 [INFO]   Guardado: 06h37 - PARTE - SIN-PROC - NOTIFICACION_2.pdf
+2026-04-14 00:12:34,879 [INFO]   Guardado: 06h37 - PARTE - SIN-PROC - NOTIFICACION_3.pdf
+2026-04-14 00:12:34,879 [INFO]   Guardado: 08h11 - PARTE - 001291-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,880 [INFO]   Guardado: 05h58 - THE LAST ONE COMPANY - 001291-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,880 [INFO]   Guardado: 06h15 - PARTE - 001291-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,881 [INFO]   Guardado: 10h13 - PARTE - 001291-2025 - NOTIFICACION_1.pdf
+2026-04-14 00:12:34,881 [INFO]   Guardado: 10h13 - PARTE - 001291-2025 - Senalamiento vista_1.pdf
+2026-04-14 00:12:34,881 [INFO]   Guardado: 10h13 - PARTE - 001291-2025 - Dil requerimiento_1.pdf
+2026-04-14 00:12:34,882 [INFO]   Guardado: 05h25 - PARTE - 001291-2025 - Dil ordenacion_1.pdf
+2026-04-14 00:12:34,882 [INFO]   Guardado: 06h35 - PARTE - 001291-2025 - AUTO_1.pdf
+2026-04-14 00:12:34,883 [INFO] ============================================================
+2026-04-14 00:12:34,883 [INFO] FASE 4: Clasificando en Usu2
+2026-04-14 00:12:34,883 [INFO] ============================================================
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Riojastur Calidad, SL' para 08h51 - PARTE - 686-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 12-2026' para 05h24 - PARTE - 12-2026 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Antolín, David' para 12h58 - PARTE - 001132-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 440-2024' para 08h54 - PARTE - 0000440-2024 - Providencia senalamiento.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 437-2025' para 09h31 - PARTE - 00437-2025 - Senalamiento vista.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 440-2024' para 02h57 - PARTE - 0000440-2024 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 440-2024' para 06h38 - PARTE - 0000440-2024 - Senalamiento vista.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 06h38 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 14h40 - PARTE - 190-2016 - DILIGENCIA.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 06h32 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h08 - PARTE - 190-2016 - DILIGENCIA.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h08 - PARTE - 000190-2016 - DILIGENCIA.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h08 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h48 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h31 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1754-2006' para 09h31 - PARTE - 1754-2006 - Senalamiento vista.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1720-2007' para 09h31 - PARTE - 1720-2007 - Senalamiento vista.pdf
+2026-04-14 00:12:34,883 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 05h03 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 05h03 - PARTE - 0000190-2016 - NOTIFICACION.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 05h03 - en el referido procedimie - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1754-2006' para 05h03 - PARTE - 1754-2006 - Senalamiento vista.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Expediente 1720-2007' para 05h03 - PARTE - 1720-2007 - Senalamiento vista.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 15h14 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 15h14 - PARTE - 000190-2016 - Senalamiento vista.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 02h54 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 02h54 - PARTE - 000190-2016 - PROVIDENCIA.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h51 - PARTE - 000056-2024 - Dil ordenacion.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 09h18 - PARTE - 000056-2024 - Auto admision.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h30 - PARTE - 190-2016 - Senalamiento vista.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h30 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'Casero Miguel, Oscar' para 08h30 - PARTE - 000190-2016 - Dil ordenacion.pdf
+2026-04-14 00:12:34,884 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 04h43 - THELASTONECOMPANY - 000003-2025 - Senalamiento vista.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 08h44 - PARTE - SIN-PROC - Senalamiento vista.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 08h51 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 10h15 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 10h15 - PARTE - 000048-2025 - PROVIDENCIA.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 09h39 - Fidel Pedro García Ruiz - SIN-PROC - Dil ordenacion.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 09h39 - FIDEL PEDRO - 000139-2024 - Dil ordenacion.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 09h48 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 07h45 - Relación de todas las cue - 000048-2025 - Senalamiento vista.pdf
+2026-04-14 00:12:34,885 [WARNING]   Usu2: Carpeta no encontrada 'Garcia Ruiz, Fidel Pedro' para 07h45 - PARTE - 000048-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,886 [WARNING]   SIN MAPEO: 08h38 - Adolfo González Galilea - 1087- 2025 - Senalamiento vista.pdf (Proc: 1087/
+2025, Asunto: URGENTE ADOLFO, FIDEL Y TOMAS)
+2026-04-14 00:12:34,886 [WARNING]   SIN MAPEO: 08h38 - Materia Derecho de famili - 136- 2022 - Senalamiento vista.pdf (Proc: 136/
+2022, Asunto: URGENTE ADOLFO, FIDEL Y TOMAS)
+2026-04-14 00:12:34,886 [WARNING]   SIN MAPEO: 08h38 - Materia Derecho de famili - 1146-2023 - Dil ordenacion.pdf (Proc: 1146/2023, Asunto: URGENTE ADOLFO, FIDEL Y TOMAS)
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Antolín, David' para 06h59 - PARTE - 001132-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Riojastur Calidad, SL' para 06h14 - para que en plazo de DIEZ - 000686-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h21 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 02h21 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - 197-2017 - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - en las entidades de crédi - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h03 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 14h25 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,886 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 08h52 - LA PRESENTACIÓN DE TASACI - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 08h46 - a fin de que en - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 07h07 - PARTE - 148-2018 - Senalamiento vista.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 07h07 - PARTE - 197-2017 - NOTIFICACION.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 07h07 - PARTE - 113-2025 - NOTIFICACION.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h12 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h54 - PARTE - 000197-2017 - NOTIFICACION.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h54 - PARTE - SIN-PROC - NOTIFICACION.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h54 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 04h46 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 10h30 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 06h12 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Lázaro Vallejo, Beatriz' para 13h01 - PARTE - 000197-2017 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Calahorra Zapatero, Luis Javier' para 13h05 - PARTE - SIN-PROC - Senalamiento vista.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Calahorra Zapatero, Luis Javier' para 14h15 - PARTE - 000628-2019 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 06h33 - PARTE - 000990-2025 - Auto archivo.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 04h59 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 03h05 - PARTE - 000990-2025 - Senalamiento vista.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 13h07 - PARTE - 000990-2025 - NOTIFICACION.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h25 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   SIN MAPEO: 05h59 - PARTE - 00053-2026 - AUTO.pdf (Proc: 53/2026, Asunto: Martinez Casero, Jorge Segunda Oportunid)
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h38 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h38 - PARTE - 000990-2025 - AUTO.pdf
+2026-04-14 00:12:34,887 [WARNING]   SIN MAPEO: 06h38 - PARTE - 001521-2023 - DECRETO.pdf (Proc: 1521/2023, Asunto: Martinez Casero, Jorge Segunda Oportunid)
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 06h38 - PARTE - 000990-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h46 - PARTE - 000953-2025 - Senalamiento vista.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h46 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,887 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 08h46 - PARTE - 000953-2025 - PROVIDENCIA.pdf
+2026-04-14 00:12:34,888 [WARNING]   SIN MAPEO: 08h42 - PARTE - 2022-2023 - SENTENCIA.pdf (Proc: 2022/2023, Asunto: RE: Demanda Segunda Oportunidad Jose Ant)
+2026-04-14 00:12:34,888 [WARNING]   SIN MAPEO: 09h10 - PARTE - SIN-PROC - NOTIFICACION.pdf (Proc: , Asunto: Demanda Segunda Oportunidad Jose Antonio)
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 09h10 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 09h10 - PARTE - 000953-2025 - Senalamiento vista.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 12h10 - PARTE - 00050-2026 - AUTO.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h29 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 07h29 - PARTE - 0050-2026 - AUTO.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'Jimenez Vitoria, Alicia' para 06h37 - PARTE - 000953-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,888 [WARNING]   SIN MAPEO: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf (Proc: , Asunto: Demanda Segunda Oportunidad Jose Antonio)
+2026-04-14 00:12:34,888 [WARNING]   SIN MAPEO: 06h37 - PARTE - SIN-PROC - NOTIFICACION.pdf (Proc: , Asunto: Demanda Segunda Oportunidad Jose Antonio)
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 08h11 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 05h58 - THE LAST ONE COMPANY - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 06h15 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 10h13 - PARTE - 001291-2025 - NOTIFICACION.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 10h13 - PARTE - 001291-2025 - Senalamiento vista.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 10h13 - PARTE - 001291-2025 - Dil requerimiento.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 05h25 - PARTE - 001291-2025 - Dil ordenacion.pdf
+2026-04-14 00:12:34,888 [WARNING]   Usu2: Carpeta no encontrada 'The Last One Company, SL' para 06h35 - PARTE - 001291-2025 - AUTO.pdf
+2026-04-14 00:12:34,888 [INFO] ============================================================
+2026-04-14 00:12:34,888 [INFO] FASE 5: Generando informe
+2026-04-14 00:12:34,888 [INFO] ============================================================
+2026-04-14 00:12:34,889 [INFO] Informe: C:\Users\santi\OneDrive - Aserges\judicial_diario/2026-04-06_al_2026-04-14/informe_clasificacion.md

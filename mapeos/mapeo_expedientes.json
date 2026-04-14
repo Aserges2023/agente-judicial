@@ -18,7 +18,15 @@
     "1601/2025": "Jimenez Vitoria, Alicia",
     "990/2025": "Jimenez Vitoria, Alicia",
     "252/2025": "Jimenez Vitoria, Alicia",
-    "120/2026": "Latorre Galilea, Julio"
+    "120/2026": "Latorre Galilea, Julio",
+    "686/2025": "Riojastur Calidad, SL",
+    "12/2026": "Expediente 12-2026",
+    "1132/2025": "Antolín, David",
+    "440/2024": "Expediente 440-2024",
+    "437/2025": "Expediente 437-2025",
+    "190/2016": "Casero Miguel, Oscar",
+    "1754/2006": "Expediente 1754-2006",
+    "1720/2007": "Expediente 1720-2007"
   },
   "por_asunto_regex": {
     "(?i)vinagres\\s+alaveses": "Vinagres Alaveses, S.L",
