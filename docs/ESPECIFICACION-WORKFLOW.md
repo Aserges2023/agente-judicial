@@ -87,6 +87,23 @@ DOCS-MNPROGRAM_1631/Usu2/[NOMBRE_CLIENTE]/Exp[N]/FECHA_NIG_TIPO.pdf
 5. Si múltiples expedientes, buscar NIG en archivos existentes
 6. Si NIG no encontrado: NO archivar automáticamente, enviar alerta
 
+### Algoritmo de puntuación (matching_score)
+El score se calcula por coincidencias parciales entre el nombre normalizado
+del demandado/ejecutado y el nombre de la carpeta del cliente en OneDrive:
+
+| Criterio | Puntos |
+|---|---|
+| Coincidencia exacta (tras normalización) | +10 |
+| Coincidencia de todas las palabras clave (>=2) | +6 |
+| Coincidencia de la primera palabra significativa | +3 |
+| Coincidencia de palabras sueltas | +1 por palabra |
+| NIG encontrado en archivo dentro del expediente | +5 |
+
+Si el mejor candidato tiene score < 4 → NO archivar, enviar alerta manual.
+Si el mejor candidato tiene score >= 4 y hay un 2º candidato con score
+muy cercano (diferencia < 2) → archivar en el mejor, pero anotar ambiguedad
+en el email de confirmación.
+
 ---
 
 ## 6. ANÁLISIS IA - CONFIGURACIÓN CLAUDE
@@ -120,11 +137,17 @@ Headers:
 
 - **Días hábiles judiciales** (no naturales)
 - Excluye: sábados, domingos
-- Excluye: agosto completo (inhábil judicial)
-- Excluye: festivos nacionales (01-01, 01-06, 05-01, 08-15, 10-12, 11-01, 12-06, 12-08, 12-25)
+- Excluye: agosto completo (inhábil judicial, LOPJ art. 183)
+- Excluye: festivos nacionales fijos (01-01, 01-06, 05-01, 08-15, 10-12, 11-01, 12-06, 12-08, 12-25)
 - Excluye: Jueves/Viernes Santo (calculado dinámicamente con algoritmo de Computus)
+- Excluye: festivos autonómicos fijos (si la IA extrae `comunidad_autonoma`)
+- Excluye: festivos locales fijos (si se configuran en `FESTIVOS_LOCALES`)
 
 Ver implementación: `scripts/plazos-judiciales.js`
+
+**Importante:** Los festivos autonómicos/locales móviles (Lunes de Pascua,
+Corpus, San José según CCAA) NO se calculan automáticamente. Si una actuación
+cae cerca de una de esas fechas, validar manualmente.
 
 ---
 
@@ -185,3 +208,62 @@ IMAP (santiago@aserges.es)
 2. **PDFs escaneados** - Los PDFs sin texto extraíble se envían como base64 a Claude Vision. Si el binario se pierde entre nodos, Claude recibe "PDF vacío". Se mitiga referenciando el binario directamente desde el nodo "Separar Adjuntos PDF".
 3. **API key hardcodeada** - La key de Claude está en el JSON del workflow, no en el sistema de credenciales de n8n. Pendiente: crear credencial "Header Auth" en la UI de n8n.
 4. **Activación via API** - Tras hacer PUT al workflow, a veces el IMAP listener no se reinicia correctamente. Solución: deactivate → esperar 30s → activate.
+
+---
+
+## 12. MEJORAS PENDIENTES EN LA UI DE n8n
+
+Estos cambios no se pueden hacer desde el repositorio — requieren editar
+los workflows directamente en https://aserges2026.app.n8n.cloud.
+
+### 12.1 [PRIORIDAD ALTA] Mover API key de Claude a credencial Header Auth
+**Workflow:** Producción v3 (`iVSmHsFprCiHdS1Y`)
+
+1. En la UI de n8n → Credentials → New → "Header Auth"
+2. Name: `x-api-key`
+3. Value: [API key de Anthropic]
+4. En el nodo HTTP que llama a Claude, cambiar el header hardcodeado por
+   la credencial recién creada.
+5. Guardar y re-activar el workflow.
+
+### 12.2 [PRIORIDAD ALTA] Añadir reintentos al nodo HTTP de Claude
+**Workflow:** Producción v3
+
+En el nodo HTTP Request que llama a `api.anthropic.com/v1/messages`:
+- Settings → "Retry On Fail": ON
+- Max Tries: 3
+- Wait Between Tries (ms): 2000 (con crecimiento exponencial si está disponible)
+
+Esto evita generar "Alerta IA Fallida" por errores transitorios (timeouts,
+529 overloaded).
+
+### 12.3 [PRIORIDAD MEDIA] Propagar `comunidad_autonoma` al nodo de plazos
+**Workflow:** Producción v3
+
+Tras actualizar el prompt (v2.0.0), la IA extrae `comunidad_autonoma`.
+El nodo Function que calcula plazos ya acepta `ccaa` y `localidad` como
+opciones (ver `scripts/n8n-function-plazos.js`). Asegurarse de que el
+código del nodo Function en n8n esté actualizado a la versión nueva.
+
+### 12.4 [PRIORIDAD MEDIA] Métricas de fallos en resumen 12h
+**Workflow:** Resumen 12h (`ekdB2c1GOYrioqjz`)
+
+Añadir al email de resumen:
+- Nº de notificaciones procesadas OK
+- Nº de "IA fallida"
+- Nº de "Cliente no identificado"
+- Nº de "Sin PDF" / "Procurador desconocido"
+- Ratio de éxito (procesadas_ok / total)
+
+Esto requiere leer los logs de ejecución del workflow principal (vía
+`/executions` de la API de n8n) y agrupar por tipo de resultado en los
+últimos 12h.
+
+### 12.5 [PRIORIDAD BAJA] Etiquetar eventos urgentes en Google Calendar
+**Workflow:** Producción v3
+
+Si `urgente === true` (nuevo campo que ahora devuelve la IA o calcula
+el nodo Function), modificar:
+- Título del evento: `⚠️ URGENTE: [tipo_resolucion] | [demandado] | [juzgado]`
+- Color del evento: rojo (colorId: '11')
+- Añadir recordatorio extra a las 08:00 del día anterior.
