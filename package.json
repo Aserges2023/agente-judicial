@@ -1,0 +1,11 @@
+{
+  "name": "agente-judicial",
+  "version": "1.0.0",
+  "description": "Automatización de notificaciones judiciales - n8n workflows + utilidades",
+  "scripts": {
+    "test": "node scripts/test-plazos.js"
+  },
+  "keywords": ["judicial", "notificaciones", "n8n", "automatización"],
+  "license": "UNLICENSED",
+  "private": true
+}
